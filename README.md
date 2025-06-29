@@ -56,6 +56,47 @@ This will:
 - This project assumes that sampling is done without replacement.
 - For non-human data, modify the input Excel filename and output folder name in the script accordingly.
 
+---
+
+## System Requirements and Runtime Estimates
+
+### Environment
+
+- **Recommended Operating Systems**:
+  - Windows 10/11
+  - macOS 11 or later
+  - Ubuntu 20.04 or later
+- **Tested Python Version**:
+  - Python 3.10.12
+
+Check your Python version with:
+
+```bash
+python --version
+```
+
+### Setup Time
+
+- Installing required packages typically takes **1–3 minutes**:
+
+```bash
+pip install pandas numpy scipy matplotlib seaborn statsmodels scikit-posthocs openpyxl
+```
+
+### Runtime Estimates
+
+- On a typical modern machine using Python 3.10.12:
+  - Full bootstrap analysis with 1000 iterations for each sample size (500, 1000, 1500) completes in **under 5 minutes** total.
+  - Performance may vary slightly with CPU speed and number of Excel sheets.
+
+You can measure runtime using:
+
+```bash
+time python bootstrap_analysis.py
+```
+
+---
+
 ## License
 
 This project is for academic and research use only.
