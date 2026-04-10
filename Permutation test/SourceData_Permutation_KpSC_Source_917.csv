@@ -1,0 +1,918 @@
+﻿Num,strain,Time,group_summary,species_abbv
+108,ACESxiaobaicai-5,20210624,Community-food,Klebsiella variicola subsp. variicola
+107,ACESmacai3-8,20210624,Community-food,Klebsiella pneumoniae
+106,ACESmacai2-4,20210624,Community-food,Klebsiella pneumoniae
+105,ACESkongxincai9-3,20210624,Community-food,Klebsiella pneumoniae
+750,ACESH04247,20211103,Hospital-human,Klebsiella pneumoniae
+749,ACESH04230,20211103,Hospital-human,Klebsiella pneumoniae
+748,ACESH04229,20211103,Hospital-human,Klebsiella pneumoniae
+747,ACESH04226,20211103,Hospital-human,Klebsiella pneumoniae
+746,ACESH04208,20211101,Hospital-human,Klebsiella pneumoniae
+745,ACESH04203-2,20211101,Hospital-human,Klebsiella pneumoniae
+744,ACESH04188,20211031,Hospital-human,Klebsiella pneumoniae
+743,ACESH04186,20211031,Hospital-human,Klebsiella pneumoniae
+742,ACESH04183,20211031,Hospital-human,Klebsiella pneumoniae
+741,ACESH04172,20211030,Hospital-human,Klebsiella pneumoniae
+740,ACESH04163,20211030,Hospital-human,Klebsiella pneumoniae
+739,ACESH04162,20211030,Hospital-human,Klebsiella pneumoniae
+738,ACESH04160,20211030,Hospital-human,Klebsiella pneumoniae
+737,ACESH04157,20211029,Hospital-human,Klebsiella pneumoniae
+736,ACESH04156,20211029,Hospital-human,Klebsiella pneumoniae
+735,ACESH04148,20211029,Hospital-human,Klebsiella pneumoniae
+734,ACESH04137,20211028,Hospital-human,Klebsiella pneumoniae
+733,ACESH04114,20211026,Hospital-human,Klebsiella pneumoniae
+732,ACESH04108,20211026,Hospital-human,Klebsiella pneumoniae
+731,ACESH04106,20211026,Hospital-human,Klebsiella quasipneumoniae subsp. similipneumoniae
+730,ACESH04102,20211026,Hospital-human,Klebsiella pneumoniae
+729,ACESH04101,20211026,Hospital-human,Klebsiella pneumoniae
+728,ACESH04093,20211025,Hospital-human,Klebsiella pneumoniae
+727,ACESH04085,20211025,Hospital-human,Klebsiella pneumoniae
+726,ACESH04077,20211025,Hospital-human,Klebsiella pneumoniae
+725,ACESH04076,20211025,Hospital-human,Klebsiella pneumoniae
+724,ACESH04071,20211024,Hospital-human,Klebsiella pneumoniae
+723,ACESH04067,20211023,Hospital-human,Klebsiella pneumoniae
+722,ACESH04051,20211022,Hospital-human,Klebsiella pneumoniae
+721,ACESH04050,20211022,Hospital-human,Klebsiella pneumoniae
+720,ACESH04048,20211022,Hospital-human,Klebsiella pneumoniae
+719,ACESH04044,20211021,Hospital-human,Klebsiella pneumoniae
+718,ACESH04039,20211021,Hospital-human,Klebsiella pneumoniae
+717,ACESH04038,20211021,Hospital-human,Klebsiella pneumoniae
+716,ACESH04036,20211021,Hospital-human,Klebsiella pneumoniae
+715,ACESH04033,20211020,Hospital-human,Klebsiella pneumoniae
+714,ACESH04029,20211020,Hospital-human,Klebsiella pneumoniae
+713,ACESH04028,20211020,Hospital-human,Klebsiella pneumoniae
+712,ACESH04021,20211019,Hospital-human,Klebsiella pneumoniae
+711,ACESH04002,20211018,Hospital-human,Klebsiella pneumoniae
+710,ACESH03994,20211017,Hospital-human,Klebsiella pneumoniae
+709,ACESH03989,20211017,Hospital-human,Klebsiella pneumoniae
+708,ACESH03984,20211016,Hospital-human,Klebsiella pneumoniae
+707,ACESH03983,20211016,Hospital-human,Klebsiella pneumoniae
+706,ACESH03981,20211016,Hospital-human,Klebsiella pneumoniae
+705,ACESH03980,20211016,Hospital-human,Klebsiella pneumoniae
+704,ACESH03976-3,20211016,Hospital-human,Klebsiella pneumoniae
+703,ACESH03966,20211015,Hospital-human,Klebsiella pneumoniae
+702,ACESH03959-2,20211015,Hospital-human,Klebsiella pneumoniae
+701,ACESH03957,20211015,Hospital-human,Klebsiella pneumoniae
+700,ACESH03956,20211015,Hospital-human,Klebsiella pneumoniae
+699,ACESH03950,20211014,Hospital-human,Klebsiella pneumoniae
+698,ACESH03946,20211014,Hospital-human,Klebsiella pneumoniae
+697,ACESH03938,20211014,Hospital-human,Klebsiella pneumoniae
+696,ACESH03935,20211013,Hospital-human,Klebsiella pneumoniae
+695,ACESH03899,20211011,Hospital-human,Klebsiella pneumoniae
+694,ACESH03898,20211011,Hospital-human,Klebsiella pneumoniae
+693,ACESH03890,20211010,Hospital-human,Klebsiella pneumoniae
+692,ACESH03880,20211009,Hospital-human,Klebsiella quasipneumoniae subsp. similipneumoniae
+691,ACESH03874,20211009,Hospital-human,Klebsiella pneumoniae
+690,ACESH03872,20211009,Hospital-human,Klebsiella pneumoniae
+689,ACESH03870,20211009,Hospital-human,Klebsiella pneumoniae
+688,ACESH03854,20211008,Hospital-human,Klebsiella pneumoniae
+687,ACESH03849,20211008,Hospital-human,Klebsiella pneumoniae
+686,ACESH03842,20211007,Hospital-human,Klebsiella pneumoniae
+685,ACESH03835,20211006,Hospital-human,Klebsiella pneumoniae
+684,ACESH03832,20211006,Hospital-human,Klebsiella pneumoniae
+683,ACESH03829,20211006,Hospital-human,Klebsiella pneumoniae
+682,ACESH03818,20211006,Hospital-human,Klebsiella pneumoniae
+681,ACESH03817,20211006,Hospital-human,Klebsiella pneumoniae
+680,ACESH03816,20211006,Hospital-human,Klebsiella pneumoniae
+679,ACESH03799,20211005,Hospital-human,Klebsiella pneumoniae
+678,ACESH03796,20211005,Hospital-human,Klebsiella pneumoniae
+677,ACESH03788,20211004,Hospital-human,Klebsiella pneumoniae
+676,ACESH03774,20211004,Hospital-human,Klebsiella pneumoniae
+675,ACESH03773,20211004,Hospital-human,Klebsiella pneumoniae
+674,ACESH03762,20211003,Hospital-human,Klebsiella pneumoniae
+673,ACESH03761,20211003,Hospital-human,Klebsiella pneumoniae
+672,ACESH03748,20211002,Hospital-human,Klebsiella pneumoniae
+671,ACESH03747,20211002,Hospital-human,Klebsiella pneumoniae
+670,ACESH03746,20211002,Hospital-human,Klebsiella pneumoniae
+669,ACESH03739,20211001,Hospital-human,Klebsiella pneumoniae
+668,ACESH03733,20211001,Hospital-human,Klebsiella pneumoniae
+667,ACESH03723,20210930,Hospital-human,Klebsiella quasipneumoniae subsp. similipneumoniae
+666,ACESH03716,20210929,Hospital-human,Klebsiella pneumoniae
+665,ACESH03703,20210929,Hospital-human,Klebsiella pneumoniae
+664,ACESH03702,20210929,Hospital-human,Klebsiella pneumoniae
+663,ACESH03701,20210929,Hospital-human,Klebsiella pneumoniae
+662,ACESH03692,20210928,Hospital-human,Klebsiella pneumoniae
+661,ACESH03689,20210928,Hospital-human,Klebsiella pneumoniae
+660,ACESH03682,20210927,Hospital-human,Klebsiella pneumoniae
+659,ACESH03678,20210927,Hospital-human,Klebsiella pneumoniae
+658,ACESH03670,20210927,Hospital-human,Klebsiella pneumoniae
+657,ACESH03669,20210927,Hospital-human,Klebsiella pneumoniae
+656,ACESH03668,20210927,Hospital-human,Klebsiella pneumoniae
+655,ACESH03667,20210927,Hospital-human,Klebsiella pneumoniae
+654,ACESH03650,20210926,Hospital-human,Klebsiella pneumoniae
+653,ACESH03639,20210925,Hospital-human,Klebsiella pneumoniae
+652,ACESH03638,20210925,Hospital-human,Klebsiella pneumoniae
+651,ACESH03637,20210925,Hospital-human,Klebsiella pneumoniae
+650,ACESH03636,20210925,Hospital-human,Klebsiella pneumoniae
+649,ACESH03627,20210924,Hospital-human,Klebsiella pneumoniae
+648,ACESH03624,20210924,Hospital-human,Klebsiella pneumoniae
+647,ACESH03623,20210924,Hospital-human,Klebsiella pneumoniae
+646,ACESH03612,20210923,Hospital-human,Klebsiella pneumoniae
+645,ACESH03611,20210923,Hospital-human,Klebsiella pneumoniae
+644,ACESH03610,20210923,Hospital-human,Klebsiella pneumoniae
+643,ACESH03608,20210923,Hospital-human,Klebsiella pneumoniae
+642,ACESH03606,20210923,Hospital-human,Klebsiella pneumoniae
+641,ACESH03605,20210922,Hospital-human,Klebsiella pneumoniae
+640,ACESH03595,20210922,Hospital-human,Klebsiella pneumoniae
+639,ACESH03593,20210921,Hospital-human,Klebsiella pneumoniae
+638,ACESH03592,20210921,Hospital-human,Klebsiella pneumoniae
+637,ACESH03590,20210921,Hospital-human,Klebsiella pneumoniae
+636,ACESH03575,20210920,Hospital-human,Klebsiella pneumoniae
+635,ACESH03564,20210920,Hospital-human,Klebsiella pneumoniae
+634,ACESH03560,20210920,Hospital-human,Klebsiella pneumoniae
+633,ACESH03559,20210920,Hospital-human,Klebsiella pneumoniae
+632,ACESH03558,20210920,Hospital-human,Klebsiella pneumoniae
+631,ACESH03547,20210919,Hospital-human,Klebsiella pneumoniae
+630,ACESH03535,20210918,Hospital-human,Klebsiella pneumoniae
+629,ACESH03534,20210918,Hospital-human,Klebsiella pneumoniae
+628,ACESH03532,20210918,Hospital-human,Klebsiella pneumoniae
+627,ACESH03531,20210918,Hospital-human,Klebsiella pneumoniae
+626,ACESH03524,20210917,Hospital-human,Klebsiella pneumoniae
+625,ACESH03492,20210914,Hospital-human,Klebsiella pneumoniae
+624,ACESH03470,20210914,Hospital-human,Klebsiella pneumoniae
+623,ACESH03468,20210914,Hospital-human,Klebsiella pneumoniae
+622,ACESH03467,20210914,Hospital-human,Klebsiella pneumoniae
+621,ACESH03466,20210914,Hospital-human,Klebsiella pneumoniae
+620,ACESH03465,20210914,Hospital-human,Klebsiella pneumoniae
+619,ACESH03459,20210913,Hospital-human,Klebsiella pneumoniae
+618,ACESH03458,20210913,Hospital-human,Klebsiella pneumoniae
+617,ACESH03448,20210913,Hospital-human,Klebsiella pneumoniae
+616,ACESH03445,20210913,Hospital-human,Klebsiella pneumoniae
+615,ACESH03443,20210913,Hospital-human,Klebsiella pneumoniae
+614,ACESH03434,20210912,Hospital-human,Klebsiella pneumoniae
+613,ACESH03432,20210912,Hospital-human,Klebsiella pneumoniae
+612,ACESH03410,20210910,Hospital-human,Klebsiella pneumoniae
+611,ACESH03408,20210910,Hospital-human,Klebsiella pneumoniae
+610,ACESH03407,20210910,Hospital-human,Klebsiella pneumoniae
+609,ACESH03404,20210909,Hospital-human,Klebsiella pneumoniae
+608,ACESH03403-2,20210909,Hospital-human,Klebsiella pneumoniae
+607,ACESH03403-1,20210909,Hospital-human,Klebsiella pneumoniae
+606,ACESH03400-2,20210909,Hospital-human,Klebsiella pneumoniae
+605,ACESH03400-1,20210909,Hospital-human,Klebsiella pneumoniae
+604,ACESH03398,20210909,Hospital-human,Klebsiella pneumoniae
+603,ACESH03393,20210909,Hospital-human,Klebsiella pneumoniae
+602,ACESH03389,20210908,Hospital-human,Klebsiella pneumoniae
+601,ACESH03378,20210908,Hospital-human,Klebsiella pneumoniae
+600,ACESH03377,20210908,Hospital-human,Klebsiella pneumoniae
+599,ACESH03376,20210908,Hospital-human,Klebsiella pneumoniae
+598,ACESH03375,20210907,Hospital-human,Klebsiella pneumoniae
+597,ACESH03363,20210907,Hospital-human,Klebsiella pneumoniae
+596,ACESH03362,20210907,Hospital-human,Klebsiella pneumoniae
+595,ACESH03357,20210907,Hospital-human,Klebsiella pneumoniae
+594,ACESH03350,20210906,Hospital-human,Klebsiella pneumoniae
+593,ACESH03344,20210905,Hospital-human,Klebsiella pneumoniae
+592,ACESH03343,20210905,Hospital-human,Klebsiella pneumoniae
+591,ACESH03338,20210904,Hospital-human,Klebsiella pneumoniae
+590,ACESH03327,20210904,Hospital-human,Klebsiella pneumoniae
+589,ACESH03326,20210904,Hospital-human,Klebsiella pneumoniae
+588,ACESH03312,20210903,Hospital-human,Klebsiella pneumoniae
+587,ACESH03311,20210903,Hospital-human,Klebsiella pneumoniae
+586,ACESH03307,20210902,Hospital-human,Klebsiella quasipneumoniae subsp. quasipneumoniae
+585,ACESH03304,20210902,Hospital-human,Klebsiella pneumoniae
+584,ACESH03296,20210902,Hospital-human,Klebsiella pneumoniae
+583,ACESH03288,20210901,Hospital-human,Klebsiella pneumoniae
+582,ACESH03280,20210901,Hospital-human,Klebsiella pneumoniae
+581,ACESH03272,20210831,Hospital-human,Klebsiella pneumoniae
+580,ACESH03265,20210830,Hospital-human,Klebsiella quasipneumoniae subsp. similipneumoniae
+579,ACESH03260,20210830,Hospital-human,Klebsiella pneumoniae
+578,ACESH03249,20210828,Hospital-human,Klebsiella pneumoniae
+577,ACESH03248,20210828,Hospital-human,Klebsiella pneumoniae
+576,ACESH03239,20210828,Hospital-human,Klebsiella pneumoniae
+575,ACESH03234,20210828,Hospital-human,Klebsiella pneumoniae
+574,ACESH03233,20210828,Hospital-human,Klebsiella pneumoniae
+573,ACESH03232,20210828,Hospital-human,Klebsiella pneumoniae
+572,ACESH03219,20210827,Hospital-human,Klebsiella pneumoniae
+571,ACESH03180,20210824,Hospital-human,Klebsiella pneumoniae
+570,ACESH03179,20210824,Hospital-human,Klebsiella pneumoniae
+569,ACESH03178,20210824,Hospital-human,Klebsiella pneumoniae
+568,ACESH03177,20210824,Hospital-human,Klebsiella pneumoniae
+567,ACESH03171,20210823,Hospital-human,Klebsiella pneumoniae
+566,ACESH03170,20210823,Hospital-human,Klebsiella pneumoniae
+565,ACESH03165-2,20210822,Hospital-human,Klebsiella pneumoniae
+564,ACESH03133,20210819,Hospital-human,Klebsiella pneumoniae
+563,ACESH03132,20210818,Hospital-human,Klebsiella pneumoniae
+562,ACESH03129,20210818,Hospital-human,Klebsiella pneumoniae
+561,ACESH03121,20210818,Hospital-human,Klebsiella pneumoniae
+560,ACESH03120,20210818,Hospital-human,Klebsiella pneumoniae
+559,ACESH03108,20210816,Hospital-human,Klebsiella pneumoniae
+558,ACESH03107,20210816,Hospital-human,Klebsiella pneumoniae
+557,ACESH03101,20210816,Hospital-human,Klebsiella pneumoniae
+556,ACESH03100,20210816,Hospital-human,Klebsiella pneumoniae
+555,ACESH03094,20210815,Hospital-human,Klebsiella pneumoniae
+554,ACESH03093,20210815,Hospital-human,Klebsiella pneumoniae
+553,ACESH03085,20210814,Hospital-human,Klebsiella pneumoniae
+552,ACESH03052,20210812,Hospital-human,Klebsiella pneumoniae
+551,ACESH03051,20210812,Hospital-human,Klebsiella pneumoniae
+550,ACESH03050,20210812,Hospital-human,Klebsiella pneumoniae
+549,ACESH03045,20210811,Hospital-human,Klebsiella pneumoniae
+548,ACESH03044,20210811,Hospital-human,Klebsiella pneumoniae
+547,ACESH03042,20210811,Hospital-human,Klebsiella pneumoniae
+546,ACESH03003,20210808,Hospital-human,Klebsiella pneumoniae
+545,ACESH03002,20210808,Hospital-human,Klebsiella pneumoniae
+544,ACESH02998,20210806,Hospital-human,Klebsiella pneumoniae
+543,ACESH02996,20210806,Hospital-human,Klebsiella pneumoniae
+542,ACESH02987,20210806,Hospital-human,Klebsiella pneumoniae
+541,ACESH02986,20210806,Hospital-human,Klebsiella pneumoniae
+540,ACESH02985,20210806,Hospital-human,Klebsiella pneumoniae
+539,ACESH02984,20210805,Hospital-human,Klebsiella pneumoniae
+538,ACESH02982,20210805,Hospital-human,Klebsiella pneumoniae
+537,ACESH02980,20210805,Hospital-human,Klebsiella pneumoniae
+536,ACESH02939,20210802,Hospital-human,Klebsiella quasipneumoniae subsp. similipneumoniae
+535,ACESH02938,20210802,Hospital-human,Klebsiella pneumoniae
+534,ACESH02878,20210729,Hospital-human,Klebsiella pneumoniae
+533,ACESH02868,20210729,Hospital-human,Klebsiella pneumoniae
+532,ACESH02867,20210729,Hospital-human,Klebsiella pneumoniae
+531,ACESH02866,20210729,Hospital-human,Klebsiella pneumoniae
+530,ACESH02865,20210729,Hospital-human,Klebsiella pneumoniae
+529,ACESH02859,20210728,Hospital-human,Klebsiella pneumoniae
+528,ACESH02857,20210727,Hospital-human,Klebsiella pneumoniae
+527,ACESH02855,20210727,Hospital-human,Klebsiella quasipneumoniae subsp. quasipneumoniae
+526,ACESH02843,20210727,Hospital-human,Klebsiella pneumoniae
+525,ACESH02842,20210727,Hospital-human,Klebsiella pneumoniae
+524,ACESH02841,20210727,Hospital-human,Klebsiella pneumoniae
+523,ACESH02837,20210726,Hospital-human,Klebsiella pneumoniae
+522,ACESH02812,20210724,Hospital-human,Klebsiella pneumoniae
+521,ACESH02811,20210724,Hospital-human,Klebsiella pneumoniae
+520,ACESH02810,20210724,Hospital-human,Klebsiella pneumoniae
+519,ACESH02800,20210724,Hospital-human,Klebsiella pneumoniae
+518,ACESH02799,20210724,Hospital-human,Klebsiella pneumoniae
+517,ACESH02798,20210724,Hospital-human,Klebsiella pneumoniae
+516,ACESH02796,20210724,Hospital-human,Klebsiella pneumoniae
+515,ACESH02788,20210723,Hospital-human,Klebsiella pneumoniae
+514,ACESH02787,20210723,Hospital-human,Klebsiella pneumoniae
+513,ACESH02782,20210722,Hospital-human,Klebsiella pneumoniae
+512,ACESH02781,20210722,Hospital-human,Klebsiella pneumoniae
+511,ACESH02779,20210722,Hospital-human,Klebsiella pneumoniae
+510,ACESH02770,20210722,Hospital-human,Klebsiella pneumoniae
+509,ACESH02769,20210722,Hospital-human,Klebsiella pneumoniae
+508,ACESH02768,20210722,Hospital-human,Klebsiella pneumoniae
+507,ACESH02767,20210722,Hospital-human,Klebsiella pneumoniae
+506,ACESH02766,20210722,Hospital-human,Klebsiella pneumoniae
+505,ACESH02765,20210721,Hospital-human,Klebsiella pneumoniae
+504,ACESH02752,20210721,Hospital-human,Klebsiella pneumoniae
+503,ACESH02746,20210721,Hospital-human,Klebsiella pneumoniae
+502,ACESH02745,20210721,Hospital-human,Klebsiella pneumoniae
+501,ACESH02744,20210721,Hospital-human,Klebsiella pneumoniae
+500,ACESH02743,20210721,Hospital-human,Klebsiella pneumoniae
+499,ACESH02730,20210720,Hospital-human,Klebsiella pneumoniae
+498,ACESH02729,20210720,Hospital-human,Klebsiella pneumoniae
+497,ACESH02728,20210720,Hospital-human,Klebsiella pneumoniae
+496,ACESH02727,20210720,Hospital-human,Klebsiella pneumoniae
+495,ACESH02725,20210719,Hospital-human,Klebsiella pneumoniae
+494,ACESH02711,20210716,Hospital-human,Klebsiella pneumoniae
+493,ACESH02708,20210716,Hospital-human,Klebsiella pneumoniae
+492,ACESH02700,20210716,Hospital-human,Klebsiella pneumoniae
+491,ACESH02691,20210715,Hospital-human,Klebsiella pneumoniae
+490,ACESH02673,20210715,Hospital-human,Klebsiella pneumoniae
+489,ACESH02672,20210715,Hospital-human,Klebsiella pneumoniae
+488,ACESH02650,20210714,Hospital-human,Klebsiella pneumoniae
+487,ACESH02649,20210714,Hospital-human,Klebsiella pneumoniae
+486,ACESH02641,20210713,Hospital-human,Klebsiella pneumoniae
+485,ACESH02630,20210712,Hospital-human,Klebsiella pneumoniae
+484,ACESH02629,20210711,Hospital-human,Klebsiella pneumoniae
+483,ACESH02628,20210711,Hospital-human,Klebsiella quasipneumoniae subsp. similipneumoniae
+482,ACESH02618,20210711,Hospital-human,Klebsiella pneumoniae
+481,ACESH02617,20210711,Hospital-human,Klebsiella pneumoniae
+480,ACESH02616,20210711,Hospital-human,Klebsiella pneumoniae
+479,ACESH02615,20210711,Hospital-human,Klebsiella quasipneumoniae subsp. similipneumoniae
+478,ACESH02614,20210710,Hospital-human,Klebsiella pneumoniae
+477,ACESH02610,20210710,Hospital-human,Klebsiella pneumoniae
+476,ACESH02609,20210710,Hospital-human,Klebsiella quasipneumoniae subsp. similipneumoniae
+475,ACESH02598,20210710,Hospital-human,Klebsiella pneumoniae
+474,ACESH02579,20210708,Hospital-human,Klebsiella pneumoniae
+473,ACESH02567,20210708,Hospital-human,Klebsiella pneumoniae
+472,ACESH02566,20210708,Hospital-human,Klebsiella pneumoniae
+471,ACESH02565,20210708,Hospital-human,Klebsiella pneumoniae
+470,ACESH02564,20210708,Hospital-human,Klebsiella pneumoniae
+469,ACESH02558,20210707,Hospital-human,Klebsiella pneumoniae
+468,ACESH02551,20210706,Hospital-human,Klebsiella pneumoniae
+467,ACESH02545,20210706,Hospital-human,Klebsiella pneumoniae
+466,ACESH02544,20210706,Hospital-human,Klebsiella pneumoniae
+465,ACESH02532,20210705,Hospital-human,Klebsiella pneumoniae
+464,ACESH02530,20210704,Hospital-human,Klebsiella pneumoniae
+463,ACESH02529,20210704,Hospital-human,Klebsiella pneumoniae
+462,ACESH02521,20210704,Hospital-human,Klebsiella pneumoniae
+461,ACESH02518,20210703,Hospital-human,Klebsiella pneumoniae
+460,ACESH02508,20210703,Hospital-human,Klebsiella pneumoniae
+459,ACESH02506,20210703,Hospital-human,Klebsiella pneumoniae
+458,ACESH02504,20210703,Hospital-human,Klebsiella pneumoniae
+457,ACESH02502,20210702,Hospital-human,Klebsiella pneumoniae
+456,ACESH02490,20210702,Hospital-human,Klebsiella quasipneumoniae subsp. similipneumoniae
+455,ACESH02487,20210701,Hospital-human,Klebsiella pneumoniae
+454,ACESH02478,20210701,Hospital-human,Klebsiella pneumoniae
+453,ACESH02465,20210630,Hospital-human,Klebsiella pneumoniae
+452,ACESH02464,20210630,Hospital-human,Klebsiella pneumoniae
+451,ACESH02463,20210630,Hospital-human,Klebsiella pneumoniae
+450,ACESH02461,20210629,Hospital-human,Klebsiella pneumoniae
+449,ACESH02449,20210628,Hospital-human,Klebsiella pneumoniae
+448,ACESH02418,20210626,Hospital-human,Klebsiella pneumoniae
+447,ACESH02401,20210626,Hospital-human,Klebsiella variicola subsp. variicola
+446,ACESH02380,20210624,Hospital-human,Klebsiella pneumoniae
+445,ACESH02378,20210624,Hospital-human,Klebsiella pneumoniae
+444,ACESH02368,20210624,Hospital-human,Klebsiella pneumoniae
+443,ACESH02329,20210621,Hospital-human,Klebsiella pneumoniae
+442,ACESH02316,20210620,Hospital-human,Klebsiella pneumoniae
+441,ACESH02315,20210620,Hospital-human,Klebsiella variicola subsp. variicola
+440,ACESH02312,20210619,Hospital-human,Klebsiella pneumoniae
+439,ACESH02310,20210619,Hospital-human,Klebsiella pneumoniae
+438,ACESH02308,20210619,Hospital-human,Klebsiella pneumoniae
+437,ACESH02295,20210618,Hospital-human,Klebsiella pneumoniae
+436,ACESH02292,20210618,Hospital-human,Klebsiella pneumoniae
+435,ACESH02289,20210618,Hospital-human,Klebsiella pneumoniae
+434,ACESH02286,20210618,Hospital-human,Klebsiella variicola subsp. variicola
+433,ACESH02283,20210617,Hospital-human,Klebsiella pneumoniae
+432,ACESH02282,20210617,Hospital-human,Klebsiella pneumoniae
+431,ACESH02281,20210617,Hospital-human,Klebsiella variicola subsp. variicola
+430,ACESH02280,20210617,Hospital-human,Klebsiella pneumoniae
+429,ACESH02274,20210617,Hospital-human,Klebsiella pneumoniae
+428,ACESH02266,20210616,Hospital-human,Klebsiella pneumoniae
+427,ACESH02257,20210615,Hospital-human,Klebsiella pneumoniae
+426,ACESH02256,20210615,Hospital-human,Klebsiella pneumoniae
+425,ACESH02246,20210614,Hospital-human,Klebsiella pneumoniae
+424,ACESH02245,20210614,Hospital-human,Klebsiella variicola subsp. variicola
+423,ACESH02244,20210614,Hospital-human,Klebsiella pneumoniae
+422,ACESH02239,20210614,Hospital-human,Klebsiella pneumoniae
+421,ACESH02236,20210614,Hospital-human,Klebsiella pneumoniae
+420,ACESH02229,20210613,Hospital-human,Klebsiella pneumoniae
+419,ACESH02228,20210613,Hospital-human,Klebsiella pneumoniae
+418,ACESH02221,20210613,Hospital-human,Klebsiella pneumoniae
+417,ACESH02220,20210613,Hospital-human,Klebsiella pneumoniae
+416,ACESH02211,20210612,Hospital-human,Klebsiella pneumoniae
+415,ACESH02195,20210610,Hospital-human,Klebsiella pneumoniae
+414,ACESH02193,20210610,Hospital-human,Klebsiella pneumoniae
+413,ACESH02192,20210610,Hospital-human,Klebsiella pneumoniae
+412,ACESH02190,20210610,Hospital-human,Klebsiella pneumoniae
+411,ACESH02181,20210609,Hospital-human,Klebsiella pneumoniae
+410,ACESH02165,20210609,Hospital-human,Klebsiella pneumoniae
+409,ACESH02164,20210609,Hospital-human,Klebsiella pneumoniae
+408,ACESH02160,20210608,Hospital-human,Klebsiella pneumoniae
+407,ACESH02142,20210608,Hospital-human,Klebsiella pneumoniae
+406,ACESH02141,20210608,Hospital-human,Klebsiella pneumoniae
+405,ACESH02138,20210607,Hospital-human,Klebsiella variicola subsp. variicola
+404,ACESH02137,20210607,Hospital-human,Klebsiella pneumoniae
+403,ACESH02136,20210607,Hospital-human,Klebsiella pneumoniae
+402,ACESH02134,20210607,Hospital-human,Klebsiella pneumoniae
+401,ACESH02126,20210606,Hospital-human,Klebsiella pneumoniae
+400,ACESH02121,20210605,Hospital-human,Klebsiella pneumoniae
+399,ACESH02120,20210605,Hospital-human,Klebsiella pneumoniae
+398,ACESH02104,20210604,Hospital-human,Klebsiella pneumoniae
+397,ACESH02103,20210604,Hospital-human,Klebsiella pneumoniae
+396,ACESH02088,20210604,Hospital-human,Klebsiella pneumoniae
+395,ACESH02083,20210603,Hospital-human,Klebsiella pneumoniae
+394,ACESH02077,20210603,Hospital-human,Klebsiella pneumoniae
+393,ACESH02069,20210602,Hospital-human,Klebsiella pneumoniae
+392,ACESH02068,20210602,Hospital-human,Klebsiella variicola subsp. variicola
+391,ACESH02060,20210602,Hospital-human,Klebsiella pneumoniae
+390,ACESH02054,20210601,Hospital-human,Klebsiella pneumoniae
+389,ACESH02053,20210601,Hospital-human,Klebsiella pneumoniae
+388,ACESH02052,20210601,Hospital-human,Klebsiella pneumoniae
+387,ACESH02041,20210601,Hospital-human,Klebsiella pneumoniae
+386,ACESH02040,20210601,Hospital-human,Klebsiella pneumoniae
+385,ACESH02039,20210601,Hospital-human,Klebsiella pneumoniae
+384,ACESH02033,20210531,Hospital-human,Klebsiella pneumoniae
+383,ACESH02025,20210530,Hospital-human,Klebsiella pneumoniae
+382,ACESH02015,20210530,Hospital-human,Klebsiella pneumoniae
+381,ACESH02014,20210530,Hospital-human,Klebsiella pneumoniae
+380,ACESH02012,20210529,Hospital-human,Klebsiella pneumoniae
+379,ACESH02006,20210529,Hospital-human,Klebsiella pneumoniae
+378,ACESH02002,20210528,Hospital-human,Klebsiella pneumoniae
+377,ACESH01987,20210528,Hospital-human,Klebsiella pneumoniae
+376,ACESH01983,20210527,Hospital-human,Klebsiella pneumoniae
+375,ACESH01982,20210527,Hospital-human,Klebsiella pneumoniae
+374,ACESH01981,20210527,Hospital-human,Klebsiella pneumoniae
+373,ACESH01974,20210526,Hospital-human,Klebsiella variicola subsp. variicola
+372,ACESH01971,20210526,Hospital-human,Klebsiella pneumoniae
+371,ACESH01955,20210525,Hospital-human,Klebsiella pneumoniae
+370,ACESH01954,20210525,Hospital-human,Klebsiella pneumoniae
+369,ACESH01947,20210524,Hospital-human,Klebsiella pneumoniae
+368,ACESH01946,20210524,Hospital-human,Klebsiella pneumoniae
+367,ACESH01945,20210524,Hospital-human,Klebsiella pneumoniae
+366,ACESH01944,20210523,Hospital-human,Klebsiella pneumoniae
+365,ACESH01934,20210522,Hospital-human,Klebsiella pneumoniae
+364,ACESH01918,20210521,Hospital-human,Klebsiella pneumoniae
+363,ACESH01917,20210521,Hospital-human,Klebsiella pneumoniae
+362,ACESH01916,20210521,Hospital-human,Klebsiella pneumoniae
+361,ACESH01914,20210521,Hospital-human,Klebsiella pneumoniae
+360,ACESH01904,20210520,Hospital-human,Klebsiella pneumoniae
+359,ACESH01897,20210519,Hospital-human,Klebsiella pneumoniae
+358,ACESH01883,20210519,Hospital-human,Klebsiella pneumoniae
+357,ACESH01881,20210518,Hospital-human,Klebsiella pneumoniae
+356,ACESH01876,20210518,Hospital-human,Klebsiella pneumoniae
+355,ACESH01864,20210517,Hospital-human,Klebsiella pneumoniae
+354,ACESH01860,20210517,Hospital-human,Klebsiella pneumoniae
+353,ACESH01859,20210516,Hospital-human,Klebsiella pneumoniae
+352,ACESH01854,20210516,Hospital-human,Klebsiella pneumoniae
+351,ACESH01850,20210516,Hospital-human,Klebsiella pneumoniae
+350,ACESH01849,20210516,Hospital-human,Klebsiella pneumoniae
+349,ACESH01846,20210516,Hospital-human,Klebsiella pneumoniae
+348,ACESH01845,20210515,Hospital-human,Klebsiella pneumoniae
+347,ACESH01827,20210514,Hospital-human,Klebsiella pneumoniae
+346,ACESH01826,20210514,Hospital-human,Klebsiella pneumoniae
+345,ACESH01823,20210513,Hospital-human,Klebsiella pneumoniae
+344,ACESH01804,20210512,Hospital-human,Klebsiella pneumoniae
+343,ACESH01797,20210511,Hospital-human,Klebsiella pneumoniae
+342,ACESH01792,20210510,Hospital-human,Klebsiella pneumoniae
+341,ACESH01788,20210510,Hospital-human,Klebsiella pneumoniae
+340,ACESH01781,20210509,Hospital-human,Klebsiella pneumoniae
+339,ACESH01777,20210509,Hospital-human,Klebsiella pneumoniae
+338,ACESH01776,20210509,Hospital-human,Klebsiella pneumoniae
+337,ACESH01772,20210508,Hospital-human,Klebsiella pneumoniae
+336,ACESH01770,20210508,Hospital-human,Klebsiella pneumoniae
+335,ACESH01766,20210508,Hospital-human,Klebsiella pneumoniae
+334,ACESH01761,20210507,Hospital-human,Klebsiella pneumoniae
+333,ACESH01760,20210506,Hospital-human,Klebsiella pneumoniae
+332,ACESH01758,20210506,Hospital-human,Klebsiella pneumoniae
+331,ACESH01755,20210506,Hospital-human,Klebsiella pneumoniae
+330,ACESH01750,20210506,Hospital-human,Klebsiella pneumoniae
+329,ACESH01739,20210505,Hospital-human,Klebsiella pneumoniae
+328,ACESH01738,20210505,Hospital-human,Klebsiella pneumoniae
+327,ACESH01737,20210505,Hospital-human,Klebsiella pneumoniae
+326,ACESH01736,20210504,Hospital-human,Klebsiella pneumoniae
+325,ACESH01720,20210502,Hospital-human,Klebsiella pneumoniae
+324,ACESH01712,20210502,Hospital-human,Klebsiella pneumoniae
+323,ACESH01711,20210502,Hospital-human,Klebsiella pneumoniae
+322,ACESH01707,20210501,Hospital-human,Klebsiella pneumoniae
+321,ACESH01702,20210501,Hospital-human,Klebsiella pneumoniae
+320,ACESH01701,20210430,Hospital-human,Klebsiella pneumoniae
+319,ACESH01698,20210430,Hospital-human,Klebsiella pneumoniae
+318,ACESH01696,20210430,Hospital-human,Klebsiella pneumoniae
+317,ACESH01689,20210430,Hospital-human,Klebsiella pneumoniae
+316,ACESH01685,20210429,Hospital-human,Klebsiella pneumoniae
+315,ACESH01673,20210429,Hospital-human,Klebsiella pneumoniae
+314,ACESH01670,20210428,Hospital-human,Klebsiella pneumoniae
+313,ACESH01664,20210428,Hospital-human,Klebsiella pneumoniae
+312,ACESH01663,20210428,Hospital-human,Klebsiella pneumoniae
+311,ACESH01662,20210428,Hospital-human,Klebsiella pneumoniae
+310,ACESH01661,20210428,Hospital-human,Klebsiella variicola subsp. variicola
+309,ACESH01644,20210427,Hospital-human,Klebsiella pneumoniae
+308,ACESH01636,20210426,Hospital-human,Klebsiella pneumoniae
+307,ACESH01622,20210426,Hospital-human,Klebsiella pneumoniae
+306,ACESH01621,20210426,Hospital-human,Klebsiella pneumoniae
+305,ACESH01610,20210425,Hospital-human,Klebsiella pneumoniae
+304,ACESH01597,20210424,Hospital-human,Klebsiella pneumoniae
+303,ACESH01591,20210423,Hospital-human,Klebsiella pneumoniae
+302,ACESH01584,20210422,Hospital-human,Klebsiella pneumoniae
+301,ACESH01581,20210422,Hospital-human,Klebsiella pneumoniae
+300,ACESH01576,20210421,Hospital-human,Klebsiella pneumoniae
+299,ACESH01571,20210421,Hospital-human,Klebsiella pneumoniae
+298,ACESH01569,20210420,Hospital-human,Klebsiella pneumoniae
+297,ACESH01562,20210420,Hospital-human,Klebsiella variicola subsp. variicola
+296,ACESH01552,20210420,Hospital-human,Klebsiella pneumoniae
+295,ACESH01551,20210420,Hospital-human,Klebsiella pneumoniae
+294,ACESH01550,20210419,Hospital-human,Klebsiella pneumoniae
+293,ACESH01549,20210419,Hospital-human,Klebsiella pneumoniae
+292,ACESH01546,20210419,Hospital-human,Klebsiella pneumoniae
+291,ACESH01542,20210418,Hospital-human,Klebsiella pneumoniae
+290,ACESH01539,20210418,Hospital-human,Klebsiella pneumoniae
+289,ACESH01538,20210418,Hospital-human,Klebsiella pneumoniae
+288,ACESH01537,20210418,Hospital-human,Klebsiella pneumoniae
+287,ACESH01530,20210417,Hospital-human,Klebsiella pneumoniae
+286,ACESH01529,20210417,Hospital-human,Klebsiella pneumoniae
+285,ACESH01527,20210417,Hospital-human,Klebsiella pneumoniae
+284,ACESH01522,20210417,Hospital-human,Klebsiella pneumoniae
+283,ACESH01520,20210416,Hospital-human,Klebsiella pneumoniae
+282,ACESH01505,20210416,Hospital-human,Klebsiella pneumoniae
+281,ACESH01502,20210415,Hospital-human,Klebsiella pneumoniae
+280,ACESH01481,20210414,Hospital-human,Klebsiella pneumoniae
+279,ACESH01468,20210413,Hospital-human,Klebsiella pneumoniae
+278,ACESH01467,20210413,Hospital-human,Klebsiella pneumoniae
+277,ACESH01454,20210410,Hospital-human,Klebsiella pneumoniae
+276,ACESH01439,20210409,Hospital-human,Klebsiella pneumoniae
+275,ACESH01438,20210409,Hospital-human,Klebsiella pneumoniae
+274,ACESH01429,20210408,Hospital-human,Klebsiella pneumoniae
+273,ACESH01404,20210407,Hospital-human,Klebsiella pneumoniae
+272,ACESH01397,20210406,Hospital-human,Klebsiella pneumoniae
+271,ACESH01391,20210405,Hospital-human,Klebsiella pneumoniae
+270,ACESH01387,20210404,Hospital-human,Klebsiella pneumoniae
+269,ACESH01386,20210404,Hospital-human,Klebsiella pneumoniae
+268,ACESH01385,20210404,Hospital-human,Klebsiella pneumoniae
+267,ACESH01378,20210404,Hospital-human,Klebsiella pneumoniae
+266,ACESH01377,20210403,Hospital-human,Klebsiella pneumoniae
+265,ACESH01368,20210402,Hospital-human,Klebsiella pneumoniae
+264,ACESH01366,20210402,Hospital-human,Klebsiella pneumoniae
+263,ACESH01365,20210402,Hospital-human,Klebsiella pneumoniae
+262,ACESH01364,20210402,Hospital-human,Klebsiella pneumoniae
+261,ACESH01363,20210401,Hospital-human,Klebsiella pneumoniae
+260,ACESH01360,20210401,Hospital-human,Klebsiella pneumoniae
+259,ACESH01351,20210401,Hospital-human,Klebsiella pneumoniae
+258,ACESH01348,20210401,Hospital-human,Klebsiella pneumoniae
+257,ACESH01346,20210401,Hospital-human,Klebsiella pneumoniae
+256,ACESH01344,20210331,Hospital-human,Klebsiella quasipneumoniae subsp. similipneumoniae
+255,ACESH01335,20210331,Hospital-human,Klebsiella pneumoniae
+254,ACESH01322,20210330,Hospital-human,Klebsiella pneumoniae
+253,ACESH01320,20210329,Hospital-human,Klebsiella pneumoniae
+252,ACESH01299,20210328,Hospital-human,Klebsiella pneumoniae
+251,ACESH01298,20210328,Hospital-human,Klebsiella pneumoniae
+250,ACESH01297,20210328,Hospital-human,Klebsiella pneumoniae
+249,ACESH01294,20210327,Hospital-human,Klebsiella pneumoniae
+248,ACESH01279,20210325,Hospital-human,Klebsiella pneumoniae
+247,ACESH01278,20210325,Hospital-human,Klebsiella pneumoniae
+246,ACESH01269,20210324,Hospital-human,Klebsiella pneumoniae
+245,ACESH01267,20210324,Hospital-human,Klebsiella pneumoniae
+244,ACESH01266,20210324,Hospital-human,Klebsiella quasipneumoniae subsp. similipneumoniae
+243,ACESH01265,20210324,Hospital-human,Klebsiella pneumoniae
+242,ACESH01252,20210323,Hospital-human,Klebsiella pneumoniae
+241,ACESH01251,20210323,Hospital-human,Klebsiella pneumoniae
+240,ACESH01250,20210323,Hospital-human,Klebsiella pneumoniae
+239,ACESH01248,20210322,Hospital-human,Klebsiella variicola subsp. variicola
+238,ACESH01246,20210322,Hospital-human,Klebsiella pneumoniae
+237,ACESH01238,20210322,Hospital-human,Klebsiella pneumoniae
+236,ACESH01237,20210322,Hospital-human,Klebsiella pneumoniae
+235,ACESH01236,20210321,Hospital-human,Klebsiella pneumoniae
+234,ACESH01228,20210321,Hospital-human,Klebsiella pneumoniae
+233,ACESH01226,20210320,Hospital-human,Klebsiella pneumoniae
+232,ACESH01224,20210320,Hospital-human,Klebsiella pneumoniae
+231,ACESH01220,20210320,Hospital-human,Klebsiella pneumoniae
+230,ACESH01205,20210319,Hospital-human,Klebsiella pneumoniae
+229,ACESH01203,20210318,Hospital-human,Klebsiella pneumoniae
+228,ACESH01194,20210318,Hospital-human,Klebsiella pneumoniae
+227,ACESH01191,20210318,Hospital-human,Klebsiella quasipneumoniae subsp. similipneumoniae
+226,ACESH01190,20210318,Hospital-human,Klebsiella pneumoniae
+225,ACESH01189,20210318,Hospital-human,Klebsiella pneumoniae
+224,ACESH01187,20210317,Hospital-human,Klebsiella pneumoniae
+223,ACESH01185,20210317,Hospital-human,Klebsiella pneumoniae
+222,ACESH01169,20210316,Hospital-human,Klebsiella pneumoniae
+221,ACESH01156,20210315,Hospital-human,Klebsiella pneumoniae
+220,ACESH01155,20210315,Hospital-human,Klebsiella pneumoniae
+219,ACESH01153,20210314,Hospital-human,Klebsiella pneumoniae
+218,ACESH01147,20210314,Hospital-human,Klebsiella pneumoniae
+217,ACESH01142,20210313,Hospital-human,Klebsiella pneumoniae
+216,ACESH01114,20210311,Hospital-human,Klebsiella pneumoniae
+215,ACESH01109,20210310,Hospital-human,Klebsiella pneumoniae
+214,ACESH01108,20210310,Hospital-human,Klebsiella pneumoniae
+213,ACESH01106,20210310,Hospital-human,Klebsiella pneumoniae
+212,ACESH01097,20210309,Hospital-human,Klebsiella pneumoniae
+211,ACESH01066,20210305,Hospital-human,Klebsiella pneumoniae
+210,ACESH01058,20210303,Hospital-human,Klebsiella pneumoniae
+209,ACESH01048,20210302,Hospital-human,Klebsiella variicola subsp. variicola
+208,ACESH01046,20210302,Hospital-human,Klebsiella pneumoniae
+207,ACESH01034,20210301,Hospital-human,Klebsiella pneumoniae
+206,ACESH01016,20210227,Hospital-human,Klebsiella pneumoniae
+205,ACESH01014,20210226,Hospital-human,Klebsiella pneumoniae
+204,ACESH01009,20210226,Hospital-human,Klebsiella pneumoniae
+203,ACESH01006,20210226,Hospital-human,Klebsiella pneumoniae
+202,ACESH01002,20210225,Hospital-human,Klebsiella pneumoniae
+201,ACESH01000,20210225,Hospital-human,Klebsiella pneumoniae
+200,ACESH00998,20210225,Hospital-human,Klebsiella pneumoniae
+199,ACESH00997,20210225,Hospital-human,Klebsiella pneumoniae
+198,ACESH00995,20210224,Hospital-human,Klebsiella pneumoniae
+197,ACESH00994,20210224,Hospital-human,Klebsiella pneumoniae
+196,ACESH00993,20210224,Hospital-human,Klebsiella pneumoniae
+195,ACESH00975,20210223,Hospital-human,Klebsiella pneumoniae
+194,ACESH00972,20210222,Hospital-human,Klebsiella pneumoniae
+193,ACESH00961,20210221,Hospital-human,Klebsiella pneumoniae
+192,ACESH00953,20210220,Hospital-human,Klebsiella pneumoniae
+191,ACESH00952,20210220,Hospital-human,Klebsiella pneumoniae
+190,ACESH00950,20210219,Hospital-human,Klebsiella pneumoniae
+189,ACESH00949,20210219,Hospital-human,Klebsiella pneumoniae
+188,ACESH00944,20210219,Hospital-human,Klebsiella pneumoniae
+187,ACESH00931,20210218,Hospital-human,Klebsiella pneumoniae
+186,ACESH00926,20210217,Hospital-human,Klebsiella pneumoniae
+185,ACESH00921,20210217,Hospital-human,Klebsiella pneumoniae
+184,ACESH00918,20210216,Hospital-human,Klebsiella pneumoniae
+183,ACESH00917,20210216,Hospital-human,Klebsiella pneumoniae
+182,ACESH00916,20210216,Hospital-human,Klebsiella pneumoniae
+181,ACESH00915,20210216,Hospital-human,Klebsiella pneumoniae
+180,ACESH00895,20210214,Hospital-human,Klebsiella pneumoniae
+179,ACESH00894,20210213,Hospital-human,Klebsiella pneumoniae
+178,ACESH00888,20210212,Hospital-human,Klebsiella variicola subsp. variicola
+177,ACESH00887,20210212,Hospital-human,Klebsiella pneumoniae
+176,ACESH00880,20210211,Hospital-human,Klebsiella pneumoniae
+175,ACESH00871,20210210,Hospital-human,Klebsiella pneumoniae
+174,ACESH00870,20210210,Hospital-human,Klebsiella pneumoniae
+173,ACESH00860,20210209,Hospital-human,Klebsiella pneumoniae
+172,ACESH00858,20210213,Hospital-human,Klebsiella pneumoniae
+171,ACESH00856,20210211,Hospital-human,Klebsiella pneumoniae
+170,ACESH00849,20210207,Hospital-human,Klebsiella pneumoniae
+169,ACESH00831,20210204,Hospital-human,Klebsiella pneumoniae
+168,ACESH00826,20210204,Hospital-human,Klebsiella pneumoniae
+167,ACESH00777,20210129,Hospital-human,Klebsiella pneumoniae
+166,ACESH00762,20210126,Hospital-human,Klebsiella pneumoniae
+165,ACESH00760,20210126,Hospital-human,Klebsiella pneumoniae
+164,ACESH00759,20210126,Hospital-human,Klebsiella pneumoniae
+163,ACESH00758,20210126,Hospital-human,Klebsiella pneumoniae
+162,ACESH00754,20210126,Hospital-human,Klebsiella pneumoniae
+161,ACESH00752,20210125,Hospital-human,Klebsiella variicola subsp. variicola
+160,ACESH00751,20210125,Hospital-human,Klebsiella pneumoniae
+159,ACESH00749,20210125,Hospital-human,Klebsiella pneumoniae
+158,ACESH00741,20210125,Hospital-human,Klebsiella pneumoniae
+157,ACESH00732,20210124,Hospital-human,Klebsiella pneumoniae
+156,ACESH00728,20210123,Hospital-human,Klebsiella pneumoniae
+155,ACESH00726,20210123,Hospital-human,Klebsiella variicola subsp. variicola
+154,ACESH00716,20210122,Hospital-human,Klebsiella pneumoniae
+153,ACESH00713,20210121,Hospital-human,Klebsiella pneumoniae
+152,ACESH00704,20210120,Hospital-human,Klebsiella pneumoniae
+151,ACESH00701,20210120,Hospital-human,Klebsiella pneumoniae
+150,ACESH00697,20210119,Hospital-human,Klebsiella pneumoniae
+149,ACESH00696,20210119,Hospital-human,Klebsiella pneumoniae
+148,ACESH00684,20210118,Hospital-human,Klebsiella pneumoniae
+147,ACESH00683,20210118,Hospital-human,Klebsiella pneumoniae
+146,ACESH00682,20210118,Hospital-human,Klebsiella pneumoniae
+145,ACESH00681,20210117,Hospital-human,Klebsiella pneumoniae
+144,ACESH00673,20210117,Hospital-human,Klebsiella pneumoniae
+143,ACESH00666,20210116,Hospital-human,Klebsiella pneumoniae
+142,ACESH00661,20210115,Hospital-human,Klebsiella pneumoniae
+141,ACESH00650,20210112,Hospital-human,Klebsiella pneumoniae
+140,ACESH00643,20210111,Hospital-human,Klebsiella pneumoniae
+139,ACESH00642,20210111,Hospital-human,Klebsiella pneumoniae
+138,ACESH00636,20210110,Hospital-human,Klebsiella pneumoniae
+137,ACESH00632,20210109,Hospital-human,Klebsiella variicola subsp. variicola
+136,ACESH00628,20210109,Hospital-human,Klebsiella pneumoniae
+135,ACESH00619,20210107,Hospital-human,Klebsiella pneumoniae
+134,ACESH00618,20210107,Hospital-human,Klebsiella pneumoniae
+133,ACESH00617,20210107,Hospital-human,Klebsiella pneumoniae
+132,ACESH00615,20210107,Hospital-human,Klebsiella quasipneumoniae subsp. quasipneumoniae
+131,ACESH00606,20210106,Hospital-human,Klebsiella pneumoniae
+130,ACESH00594,20210105,Hospital-human,Klebsiella pneumoniae
+129,ACESH00591,20210104,Hospital-human,Klebsiella quasipneumoniae subsp. similipneumoniae
+128,ACESH00584,20210104,Hospital-human,Klebsiella pneumoniae
+127,ACESH00583,20210104,Hospital-human,Klebsiella pneumoniae
+126,ACESH00582,20210104,Hospital-human,Klebsiella pneumoniae
+125,ACESH00573,20210103,Hospital-human,Klebsiella pneumoniae
+124,ACESH00572,20210103,Hospital-human,Klebsiella pneumoniae
+123,ACESH00571,20210103,Hospital-human,Klebsiella pneumoniae
+122,ACESH00562,20201231,Hospital-human,Klebsiella pneumoniae
+121,ACESH00548,20201229,Hospital-human,Klebsiella pneumoniae
+120,ACESH00542,20201229,Hospital-human,Klebsiella pneumoniae
+119,ACESH00541,20201229,Hospital-human,Klebsiella pneumoniae
+118,ACESH00531,20201227,Hospital-human,Klebsiella pneumoniae
+117,ACESH00528,20201227,Hospital-human,Klebsiella pneumoniae
+116,ACESH00522,20201227,Hospital-human,Klebsiella pneumoniae
+115,ACESH00521,20201227,Hospital-human,Klebsiella pneumoniae
+114,ACESH00520,20201226,Hospital-human,Klebsiella pneumoniae
+113,ACESH00515,20201226,Hospital-human,Klebsiella pneumoniae
+112,ACESH00509,20201225,Hospital-human,Klebsiella pneumoniae
+111,ACESH00507,20201225,Hospital-human,Klebsiella pneumoniae
+110,ACESH00506,20201225,Hospital-human,Klebsiella pneumoniae
+109,ACESH00505,20201225,Hospital-human,Klebsiella pneumoniae
+108,ACESH00503,20201224,Hospital-human,Klebsiella pneumoniae
+107,ACESH00489,20201223,Hospital-human,Klebsiella quasipneumoniae subsp. quasipneumoniae
+106,ACESH00484,20201223,Hospital-human,Klebsiella pneumoniae
+105,ACESH00483,20201223,Hospital-human,Klebsiella pneumoniae
+104,ACESH00482,20201223,Hospital-human,Klebsiella pneumoniae
+103,ACESH00474,20201222,Hospital-human,Klebsiella pneumoniae
+102,ACESH00473,20201222,Hospital-human,Klebsiella pneumoniae
+101,ACESH00472,20201222,Hospital-human,Klebsiella pneumoniae
+100,ACESH00471,20201222,Hospital-human,Klebsiella pneumoniae
+99,ACESH00469,20201222,Hospital-human,Klebsiella pneumoniae
+98,ACESH00467-2,20201222,Hospital-human,Klebsiella pneumoniae
+97,ACESH00452,20201220,Hospital-human,Klebsiella pneumoniae
+96,ACESH00451,20201220,Hospital-human,Klebsiella pneumoniae
+95,ACESH00450,20201219,Hospital-human,Klebsiella pneumoniae
+94,ACESH00449,20201219,Hospital-human,Klebsiella pneumoniae
+93,ACESH00443,20201218,Hospital-human,Klebsiella pneumoniae
+92,ACESH00442,20201218,Hospital-human,Klebsiella pneumoniae
+91,ACESH00441,20201218,Hospital-human,Klebsiella pneumoniae
+90,ACESH00430,20201217,Hospital-human,Klebsiella pneumoniae
+89,ACESH00412,20201215,Hospital-human,Klebsiella pneumoniae
+88,ACESH00400,20201213,Hospital-human,Klebsiella pneumoniae
+87,ACESH00399,20201213,Hospital-human,Klebsiella pneumoniae
+86,ACESH00398,20201213,Hospital-human,Klebsiella pneumoniae
+85,ACESH00397,20201213,Hospital-human,Klebsiella pneumoniae
+84,ACESH00389,20201212,Hospital-human,Klebsiella pneumoniae
+83,ACESH00388,20201212,Hospital-human,Klebsiella pneumoniae
+82,ACESH00387,20201212,Hospital-human,Klebsiella pneumoniae
+81,ACESH00386,20201212,Hospital-human,Klebsiella pneumoniae
+80,ACESH00380,20201211,Hospital-human,Klebsiella pneumoniae
+79,ACESH00373,20201211,Hospital-human,Klebsiella pneumoniae
+78,ACESH00372,20201211,Hospital-human,Klebsiella pneumoniae
+77,ACESH00369,20201211,Hospital-human,Klebsiella pneumoniae
+76,ACESH00366,20201210,Hospital-human,Klebsiella quasipneumoniae subsp. similipneumoniae
+75,ACESH00360,20201209,Hospital-human,Klebsiella pneumoniae
+74,ACESH00359,20201209,Hospital-human,Klebsiella pneumoniae
+73,ACESH00357,20201209,Hospital-human,Klebsiella pneumoniae
+72,ACESH00356,20201209,Hospital-human,Klebsiella pneumoniae
+71,ACESH00351,20201208,Hospital-human,Klebsiella pneumoniae
+70,ACESH00336,20201206,Hospital-human,Klebsiella pneumoniae
+69,ACESH00335,20201206,Hospital-human,Klebsiella pneumoniae
+68,ACESH00333,20201205,Hospital-human,Klebsiella pneumoniae
+67,ACESH00327,20201204,Hospital-human,Klebsiella pneumoniae
+66,ACESH00326,20201204,Hospital-human,Klebsiella pneumoniae
+65,ACESH00325,20201204,Hospital-human,Klebsiella pneumoniae
+64,ACESH00324,20201204,Hospital-human,Klebsiella pneumoniae
+63,ACESH00299,20201202,Hospital-human,Klebsiella pneumoniae
+62,ACESH00297,20201201,Hospital-human,Klebsiella pneumoniae
+61,ACESH00289,20201201,Hospital-human,Klebsiella pneumoniae
+60,ACESH00288,20201201,Hospital-human,Klebsiella pneumoniae
+59,ACESH00282,20201130,Hospital-human,Klebsiella pneumoniae
+58,ACESH00277,20201129,Hospital-human,Klebsiella pneumoniae
+57,ACESH00276,20201129,Hospital-human,Klebsiella pneumoniae
+56,ACESH00275,20201129,Hospital-human,Klebsiella quasipneumoniae subsp. similipneumoniae
+55,ACESH00255,20201127,Hospital-human,Klebsiella pneumoniae
+54,ACESH00254,20201127,Hospital-human,Klebsiella pneumoniae
+53,ACESH00228,20201124,Hospital-human,Klebsiella pneumoniae
+52,ACESH00227,20201124,Hospital-human,Klebsiella pneumoniae
+51,ACESH00226,20201124,Hospital-human,Klebsiella pneumoniae
+50,ACESH00225,20201124,Hospital-human,Klebsiella pneumoniae
+49,ACESH00219,20201123,Hospital-human,Klebsiella pneumoniae
+48,ACESH00215,20201122,Hospital-human,Klebsiella pneumoniae
+47,ACESH00211,20201122,Hospital-human,Klebsiella pneumoniae
+46,ACESH00210,20201122,Hospital-human,Klebsiella pneumoniae
+45,ACESH00201,20201121,Hospital-human,Klebsiella pneumoniae
+44,ACESH00200,20201121,Hospital-human,Klebsiella pneumoniae
+43,ACESH00199,20201120,Hospital-human,Klebsiella pneumoniae
+42,ACESH00188,20201120,Hospital-human,Klebsiella pneumoniae
+41,ACESH00186,20201120,Hospital-human,Klebsiella pneumoniae
+40,ACESH00185,20201120,Hospital-human,Klebsiella pneumoniae
+39,ACESH00175,20201119,Hospital-human,Klebsiella pneumoniae
+38,ACESH00174-2,20201119,Hospital-human,Klebsiella pneumoniae
+37,ACESH00173,20201119,Hospital-human,Klebsiella pneumoniae
+36,ACESH00172,20201119,Hospital-human,Klebsiella pneumoniae
+35,ACESH00171,20201119,Hospital-human,Klebsiella pneumoniae
+34,ACESH00161,20201118,Hospital-human,Klebsiella pneumoniae
+33,ACESH00160,20201118,Hospital-human,Klebsiella pneumoniae
+32,ACESH00157,20201117,Hospital-human,Klebsiella pneumoniae
+31,ACESH00156,20201117,Hospital-human,Klebsiella pneumoniae
+30,ACESH00155,20201117,Hospital-human,Klebsiella pneumoniae
+29,ACESH00152,20201116,Hospital-human,Klebsiella pneumoniae
+28,ACESH00143,20201115,Hospital-human,Klebsiella pneumoniae
+27,ACESH00139,20201115,Hospital-human,Klebsiella pneumoniae
+26,ACESH00138,20201115,Hospital-human,Klebsiella pneumoniae
+25,ACESH00135,20201114,Hospital-human,Klebsiella pneumoniae
+24,ACESH00132,20201113,Hospital-human,Klebsiella pneumoniae
+23,ACESH00131,20201113,Hospital-human,Klebsiella pneumoniae
+22,ACESH00130,20201113,Hospital-human,Klebsiella pneumoniae
+21,ACESH00129,20201113,Hospital-human,Klebsiella pneumoniae
+20,ACESH00128,20201113,Hospital-human,Klebsiella pneumoniae
+19,ACESH00113,20201112,Hospital-human,Klebsiella quasipneumoniae subsp. quasipneumoniae
+18,ACESH00112,20201112,Hospital-human,Klebsiella pneumoniae
+17,ACESH00079,20201108,Hospital-human,Klebsiella pneumoniae
+16,ACESH00077,20201108,Hospital-human,Klebsiella pneumoniae
+15,ACESH00065,20201107,Hospital-human,Klebsiella quasipneumoniae subsp. similipneumoniae
+14,ACESH00062,20201107,Hospital-human,Klebsiella pneumoniae
+13,ACESH00055,20201106,Hospital-human,Klebsiella pneumoniae
+12,ACESH00049,20201105,Hospital-human,Klebsiella pneumoniae
+11,ACESH00048,20201105,Hospital-human,Klebsiella pneumoniae
+10,ACESH00047,20201105,Hospital-human,Klebsiella pneumoniae
+9,ACESH00043,20201105,Hospital-human,Klebsiella pneumoniae
+8,ACESH00040,20201104,Hospital-human,Klebsiella variicola subsp. variicola
+7,ACESH00039,20201104,Hospital-human,Klebsiella pneumoniae
+6,ACESH00038,20201104,Hospital-human,Klebsiella pneumoniae
+5,ACESH00032,20201103,Hospital-human,Klebsiella pneumoniae
+4,ACESH00020,20201102,Hospital-human,Klebsiella pneumoniae
+3,ACESH00019,20201102,Hospital-human,Klebsiella pneumoniae
+2,ACESH00003,20201101,Hospital-human,Klebsiella pneumoniae
+1,ACESH00002,20201101,Hospital-human,Klebsiella pneumoniae
+104,ACESgangdou-1,20210624,Community-food,Klebsiella variicola subsp. variicola
+103,ACESfoushou-5,20210624,Community-food,Klebsiella variicola subsp. variicola
+102,ACEScaNxin3-2,20210624,Community-food,Klebsiella variicola subsp. variicola
+101,ACEScaixin2-4,20210624,Community-food,Klebsiella pneumoniae
+75,ACES303W02-2,20210624,Farm-water,Klebsiella pneumoniae
+69,ACES303W01-4,20210624,Farm-water,Klebsiella pneumoniae
+68,ACES303W01-3,20210624,Farm-water,Klebsiella pneumoniae
+74,ACES303W01-2-5,20210624,Farm-water,Klebsiella variicola subsp. variicola
+73,ACES303W01-2-4,20210624,Farm-water,Klebsiella pneumoniae
+72,ACES303W01-2-3,20210624,Farm-water,Klebsiella pneumoniae
+71,ACES303W01-2-2,20210624,Farm-water,Klebsiella pneumoniae
+70,ACES303W01-2-1,20210624,Farm-water,Klebsiella pneumoniae
+100,ACES303S04-5,20210624,Farm-soil,Klebsiella pneumoniae
+99,ACES303S03-1,20210624,Farm-soil,Klebsiella variicola subsp. variicola
+98,ACES303S02-2,20210624,Farm-soil,Klebsiella quasipneumoniae subsp. quasipneumoniae
+2,ACES303F27-1,20210624,Farm-animal,Klebsiella pneumoniae
+1,ACES303F05-1,20210624,Farm-animal,Klebsiella pneumoniae
+77,ACES302X1-1.617-2,20210624,Farm-water,Klebsiella pneumoniae
+76,ACES302X1-1.617-1,20210624,Farm-water,Klebsiella pneumoniae
+67,ACES301W06-1,20210624,Farm-water,Klebsiella pneumoniae
+66,ACES301W04-5,20210624,Farm-water,Klebsiella quasipneumoniae subsp. similipneumoniae
+65,ACES301W03-3,20210624,Farm-water,Klebsiella pneumoniae
+64,ACES301W02-1-2,20210624,Farm-water,Klebsiella quasivariicola
+97,ACES301S03-4,20210624,Farm-soil,Klebsiella quasipneumoniae subsp. similipneumoniae
+63,ACES203W03-1,20210624,Community-natural water,Klebsiella variicola subsp. variicola
+96,ACES203S02-2,20210624,Community-soil,Klebsiella variicola subsp. variicola
+49,ACES203045T01-2,20210624,Community-household swab,Klebsiella pneumoniae
+48,ACES203035T01-2,20210624,Community-household swab,Klebsiella pneumoniae
+47,ACES203027T01-1,20210624,Community-household swab,Klebsiella variicola subsp. variicola
+46,ACES203022T01-2,20210624,Community-household swab,Klebsiella pneumoniae
+45,ACES203021T02-1,20210624,Community-household swab,Klebsiella pneumoniae
+44,ACES203021T01-2,20210624,Community-household swab,Klebsiella pneumoniae
+43,ACES203008T01-1,20210624,Community-household swab,Klebsiella pneumoniae
+62,ACES202W06-2,20210624,Community-natural water,Klebsiella variicola subsp. variicola
+61,ACES202W03-1,20210624,Community-natural water,Klebsiella variicola subsp. variicola
+42,ACES202049T01-1,20210624,Community-household swab,Klebsiella pneumoniae
+41,ACES202047T02-3,20210624,Community-household swab,Klebsiella variicola subsp. variicola
+40,ACES202047T02-2,20210624,Community-household swab,Klebsiella variicola subsp. variicola
+57,ACES202004HE01-2,20210624,Community-human,Klebsiella pneumoniae
+39,ACES201147T01-4,20210624,Community-household swab,Klebsiella variicola subsp. variicola
+38,ACES201147T01-3,20210624,Community-household swab,Klebsiella variicola subsp. variicola
+37,ACES201130T01-1,20210624,Community-household swab,Klebsiella quasipneumoniae subsp. quasipneumoniae
+56,ACES201130HA01-2,20210624,Community-human,Klebsiella variicola subsp. variicola
+55,ACES201091HE01-1,20210624,Community-human,Klebsiella variicola subsp. variicola
+36,ACES201067T03-4,20210624,Community-household swab,Klebsiella variicola subsp. variicola
+35,ACES201060T01-2,20210624,Community-household swab,Klebsiella pneumoniae
+34,ACES201053T01-1,20210624,Community-household swab,Klebsiella pneumoniae
+54,ACES201044HE01-6,20210624,Community-human,Klebsiella pneumoniae
+53,ACES201044HC01-2,20210624,Community-human,Klebsiella pneumoniae
+52,ACES201036HA02-1,20210624,Community-human,Klebsiella pneumoniae
+33,ACES201031T01-4,20210624,Community-household swab,Klebsiella pneumoniae
+32,ACES201031T01-1,20210624,Community-household swab,Klebsiella pneumoniae
+51,ACES201030HC01-2,20210624,Community-human,Klebsiella quasipneumoniae subsp. similipneumoniae
+31,ACES201025T02-2,20210624,Community-household swab,Klebsiella variicola subsp. variicola
+30,ACES201025T01-2,20210624,Community-household swab,Klebsiella pneumoniae
+50,ACES201025HE01-3,20210624,Community-human,Klebsiella pneumoniae
+29,ACES201019T02-6,20210624,Community-household swab,Klebsiella pneumoniae
+28,ACES201019T02-5,20210624,Community-household swab,Klebsiella pneumoniae
+27,ACES201019T01-2,20210624,Community-household swab,Klebsiella pneumoniae
+49,ACES201019HA02-4,20210624,Community-human,Klebsiella pneumoniae
+26,ACES201010T02-3,20210624,Community-household swab,Klebsiella variicola subsp. variicola
+25,ACES201010T01-5,20210624,Community-household swab,Klebsiella quasipneumoniae subsp. similipneumoniae
+24,ACES201010T01-2,20210624,Community-household swab,Klebsiella pneumoniae
+23,ACES201001T01-1,20210624,Community-household swab,Klebsiella pneumoniae
+48,ACES201001HA02-4,20210624,Community-human,Klebsiella pneumoniae
+47,ACES201001HA02-2,20210624,Community-human,Klebsiella pneumoniae
+46,ACES201001HA02-1,20210624,Community-human,Klebsiella pneumoniae
+60,ACES118W01-3,20210624,Community-natural water,Klebsiella pneumoniae
+59,ACES118W01-2,20210624,Community-natural water,Klebsiella variicola subsp. variicola
+44,ACES118035HE01-3,20210624,Community-human,Klebsiella quasipneumoniae subsp. similipneumoniae
+45,ACES118035HA01-1,20210624,Community-human,Klebsiella pneumoniae
+58,ACES117W06-1,20210624,Community-natural water,Klebsiella pneumoniae
+57,ACES117W02-1,20210624,Community-natural water,Klebsiella variicola subsp. variicola
+95,ACES117S15-2,20210624,Community-soil,Klebsiella variicola subsp. variicola
+94,ACES117S11-3,20210624,Community-soil,Klebsiella pneumoniae
+93,ACES117S11-1,20210624,Community-soil,Klebsiella pneumoniae
+92,ACES117S06-1,20210624,Community-soil,Klebsiella variicola subsp. variicola
+43,ACES117049HE02-5,20210624,Community-human,Klebsiella pneumoniae
+41,ACES117049HE01-1,20210624,Community-human,Klebsiella pneumoniae
+42,ACES117049HC01-2,20210624,Community-human,Klebsiella pneumoniae
+22,ACES117039T02-1,20210624,Community-household swab,Klebsiella pneumoniae
+40,ACES117039HE01-3,20210624,Community-human,Klebsiella pneumoniae
+39,ACES117039HA01-1,20210624,Community-human,Klebsiella pneumoniae
+38,ACES117036HE02-2,20210626,Community-human,Klebsiella pneumoniae
+37,ACES117036HE01-4-2,20210625,Community-human,Klebsiella variicola subsp. variicola
+36,ACES117036HE01-3,20210624,Community-human,Klebsiella pneumoniae
+21,ACES115016T03-4,20210624,Community-household swab,Klebsiella variicola subsp. variicola
+20,ACES115011T02-1,20210624,Community-household swab,Klebsiella variicola subsp. variicola
+91,ACES114S01-3,20210624,Community-soil,Klebsiella pneumoniae
+90,ACES114S01-1,20210624,Community-soil,Klebsiella quasipneumoniae subsp. similipneumoniae
+19,ACES112085T01-4,20210624,Community-household swab,Klebsiella pneumoniae
+88,ACES112085-1-3,20210624,Community-tap water,Klebsiella pneumoniae
+87,ACES112085-1-2,20210624,Community-tap water,Klebsiella quasipneumoniae subsp. similipneumoniae
+56,ACES110W02-1,20210624,Community-natural water,Klebsiella pneumoniae
+86,ACES110101-2-2,20210624,Community-tap water,Klebsiella pneumoniae
+18,ACES110041T01-3,20210624,Community-household swab,Klebsiella pneumoniae
+17,ACES110035T02-2,20210624,Community-household swab,Klebsiella variicola subsp. variicola
+35,ACES110035HA02-1,20210624,Community-human,Klebsiella pneumoniae
+16,ACES110028T01-3,20210624,Community-household swab,Klebsiella pneumoniae
+85,ACES110028-3,20210624,Community-tap water,Klebsiella variicola subsp. variicola
+84,ACES110028-2,20210624,Community-tap water,Klebsiella variicola subsp. variicola
+83,ACES110028-1,20210624,Community-tap water,Klebsiella variicola subsp. variicola
+89,ACES109S02-3,20210624,Community-soil,Klebsiella pneumoniae
+34,ACES109084HE01-4,20210624,Community-human,Klebsiella pneumoniae
+33,ACES109084HE01-3,20210624,Community-human,Klebsiella variicola subsp. variicola
+32,ACES109084HE01-1,20210624,Community-human,Klebsiella pneumoniae
+82,ACES109079-2,20210624,Community-tap water,Klebsiella pneumoniae
+31,ACES109078HE01-1,20210624,Community-human,Klebsiella pneumoniae
+30,ACES109078HA02-1,20210624,Community-human,Klebsiella pneumoniae
+29,ACES109078HA01-1,20210624,Community-human,Klebsiella pneumoniae
+15,ACES109067T02-1,20210624,Community-household swab,Klebsiella variicola subsp. variicola
+28,ACES109067HA01-1,20210624,Community-human,Klebsiella variicola subsp. variicola
+27,ACES109065HA01-3,20210624,Community-human,Klebsiella quasipneumoniae subsp. similipneumoniae
+26,ACES109065HA01-1,20210624,Community-human,Klebsiella pneumoniae
+14,ACES109060T02-2,20210624,Community-household swab,Klebsiella pneumoniae
+25,ACES109060HE02-2,20210624,Community-human,Klebsiella pneumoniae
+24,ACES109060HE02-1,20210624,Community-human,Klebsiella pneumoniae
+13,ACES109033T01-3,20210624,Community-household swab,Klebsiella pneumoniae
+22,ACES109033HE02-2,20210624,Community-human,Klebsiella pneumoniae
+21,ACES109033HE02-1,20210624,Community-human,Klebsiella pneumoniae
+20,ACES109033HE01-4,20210624,Community-human,Klebsiella pneumoniae
+23,ACES109033HA02-2,20210624,Community-human,Klebsiella pneumoniae
+12,ACES109032T01-1,20210624,Community-household swab,Klebsiella pneumoniae
+11,ACES109007T02-2,20210624,Community-household swab,Klebsiella variicola subsp. variicola
+10,ACES109007T01-3,20210624,Community-household swab,Klebsiella pneumoniae
+9,ACES109007T01-2,20210624,Community-household swab,Klebsiella quasipneumoniae subsp. similipneumoniae
+8,ACES109007T01-1,20210624,Community-household swab,Klebsiella pneumoniae
+7,ACES109002T01-1,20210624,Community-household swab,Klebsiella pneumoniae
+55,ACES108W03-2,20210624,Community-natural water,Klebsiella pneumoniae
+54,ACES108W02-4,20210624,Community-natural water,Klebsiella pneumoniae
+19,ACES108027HA01-4,20210624,Community-human,Klebsiella pneumoniae
+6,ACES108025T01-2,20210624,Community-household swab,Klebsiella pneumoniae
+18,ACES108025HA01-1,20210624,Community-human,Klebsiella pneumoniae
+5,ACES108020T03-2,20210624,Community-household swab,Klebsiella pneumoniae
+16,ACES108020HE01-3,20210624,Community-human,Klebsiella pneumoniae
+17,ACES108020HA02-2,20210624,Community-human,Klebsiella quasipneumoniae subsp. similipneumoniae
+15,ACES108020HA01-4,20210624,Community-human,Klebsiella variicola subsp. variicola
+14,ACES108020HA01-2,20210624,Community-human,Klebsiella pneumoniae
+13,ACES108015HA01-5,20210624,Community-human,Klebsiella pneumoniae
+12,ACES108015HA01-1,20210624,Community-human,Klebsiella pneumoniae
+4,ACES106033T02-2,20210624,Community-household swab,Klebsiella pneumoniae
+53,ACES105W01-1,20210624,Community-natural water,Klebsiella variicola subsp. variicola
+11,ACES104009PE01-1,20210624,Community-human,Klebsiella pneumoniae
+52,ACES103W03-2,20210624,Community-natural water,Klebsiella pneumoniae
+51,ACES103W01-3,20210624,Community-natural water,Klebsiella variicola subsp. variicola
+3,ACES103034T01-2,20210624,Community-household swab,Klebsiella pneumoniae
+2,ACES103032T01-1,20210624,Community-household swab,Klebsiella variicola subsp. variicola
+9,ACES103032HE01-2,20210624,Community-human,Klebsiella variicola subsp. variicola
+8,ACES103032HE01-1,20210624,Community-human,Klebsiella variicola subsp. variicola
+10,ACES103032HA01-2,20210624,Community-human,Klebsiella pneumoniae
+7,ACES103029HA02-3,20210624,Community-human,Klebsiella pneumoniae
+6,ACES103029HA02-2,20210624,Community-human,Klebsiella pneumoniae
+1,ACES102027T01-2,20210624,Community-household swab,Klebsiella pneumoniae
+50,ACES101W07-2,20210624,Community-natural water,Klebsiella pneumoniae
+81,ACES101028-2,20210624,Community-tap water,Klebsiella pneumoniae
+5,ACES101027HA03-2,20210624,Community-human,Klebsiella pneumoniae
+80,ACES101027-1,20210624,Community-tap water,Klebsiella variicola subsp. variicola
+4,ACES101025HA02-5,20210624,Community-human,Klebsiella pneumoniae
+3,ACES101025HA01-2,20210624,Community-human,Klebsiella quasipneumoniae subsp. quasipneumoniae
+79,ACES101025-4,20210624,Community-tap water,Klebsiella variicola subsp. variicola
+78,ACES101025-1,20210624,Community-tap water,Klebsiella variicola subsp. variicola
+2,ACES101011HA02-4,20210624,Community-human,Klebsiella quasipneumoniae subsp. quasipneumoniae
+1,ACES101007HE01-2,20210624,Community-human,Klebsiella pneumoniae

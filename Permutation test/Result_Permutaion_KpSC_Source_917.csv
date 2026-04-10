@@ -1,0 +1,51 @@
+species_abbv,group_summary,n_gr,p_gr,n_le,p_le,n,p,cat,p_adj,result,p_adj_lab,
+1,Klebsiella pneumoniae,Community-household swab,10000,1,0,1.00E-04,0,1.00E-04,under,0.000714286,sig,7.00E-04
+2,Klebsiella pneumoniae,Community-tap water,10000,1,0,1.00E-04,0,1.00E-04,under,0.000714286,sig,7.00E-04
+3,Klebsiella pneumoniae,Hospital-human,0,1.00E-04,10000,1,0,1.00E-04,over,0.000714286,sig,7.00E-04
+4,Klebsiella variicola subsp. variicola,Community-household swab,0,1.00E-04,10000,1,0,1.00E-04,over,0.000714286,sig,7.00E-04
+5,Klebsiella variicola subsp. variicola,Community-natural water,0,1.00E-04,10000,1,0,1.00E-04,over,0.000714286,sig,7.00E-04
+6,Klebsiella variicola subsp. variicola,Community-tap water,0,1.00E-04,10000,1,0,1.00E-04,over,0.000714286,sig,7.00E-04
+7,Klebsiella variicola subsp. variicola,Hospital-human,10000,1,0,1.00E-04,0,1.00E-04,under,0.000714286,sig,7.00E-04
+8,Klebsiella pneumoniae,Community-natural water,10000,1,3,3.00E-04,3,3.00E-04,under,0.001875,sig,0.0019
+9,Klebsiella variicola subsp. variicola,Community-food,9,9.00E-04,10000,1,9,9.00E-04,over,0.005,sig,0.005
+10,Klebsiella pneumoniae,Community-human,9993,0.9993,19,0.0019,19,0.0019,under,0.0095,sig,0.0095
+11,Klebsiella pneumoniae,Farm-soil,10000,1,34,0.0034,34,0.0034,under,0.015454545,sig,0.0155
+12,Klebsiella pneumoniae,Community-food,9998,0.9998,51,0.0051,51,0.0051,under,0.02125,sig,0.0213
+13,Klebsiella pneumoniae,Community-soil,9992,0.9992,57,0.0057,57,0.0057,under,0.021923077,sig,0.0219
+14,Klebsiella quasipneumoniae subsp. similipneumoniae,Hospital-human,9959,0.9959,122,0.0122,122,0.0122,under,0.042,non-sig,NA
+15,Klebsiella variicola subsp. variicola,Community-soil,126,0.0126,9988,0.9988,126,0.0126,over,0.042,non-sig,NA
+16,Klebsiella quasivariicola,Farm-water,166,0.0166,10000,1,166,0.0166,over,0.051875,non-sig,NA
+17,Klebsiella variicola subsp. variicola,Community-human,318,0.0318,9901,0.9901,318,0.0318,over,0.093529412,non-sig,NA
+18,Klebsiella quasipneumoniae subsp. quasipneumoniae,Farm-soil,383,0.0383,9999,0.9999,383,0.0383,over,0.106388889,non-sig,NA
+19,Klebsiella quasipneumoniae subsp. quasipneumoniae,Hospital-human,9884,0.9884,617,0.0617,617,0.0617,under,0.162368421,non-sig,NA
+20,Klebsiella quasipneumoniae subsp. similipneumoniae,Community-human,703,0.0703,9823,0.9823,703,0.0703,over,0.17575,non-sig,NA
+21,Klebsiella quasipneumoniae subsp. quasipneumoniae,Community-human,1009,0.1009,9864,0.9864,1009,0.1009,over,0.240238095,non-sig,NA
+22,Klebsiella quasipneumoniae subsp. similipneumoniae,Farm-soil,1067,0.1067,9958,0.9958,1067,0.1067,over,0.2425,non-sig,NA
+23,Klebsiella pneumoniae,Farm-water,9527,0.9527,1799,0.1799,1799,0.1799,under,0.375416667,non-sig,NA
+24,Klebsiella quasivariicola,Hospital-human,10000,1,1802,0.1802,1802,0.1802,under,0.375416667,non-sig,NA
+25,Klebsiella quasipneumoniae subsp. similipneumoniae,Community-soil,2100,0.21,9825,0.9825,2100,0.21,over,0.42,non-sig,NA
+26,Klebsiella variicola subsp. variicola,Farm-soil,2334,0.2334,9775,0.9775,2334,0.2334,over,0.448846154,non-sig,NA
+27,Klebsiella quasipneumoniae subsp. similipneumoniae,Community-tap water,2733,0.2733,9648,0.9648,2733,0.2733,over,0.506111111,non-sig,NA
+28,Klebsiella quasipneumoniae subsp. similipneumoniae,Farm-water,3370,0.337,9439,0.9439,3370,0.337,over,0.601785714,non-sig,NA
+29,Klebsiella quasipneumoniae subsp. quasipneumoniae,Community-household swab,3861,0.3861,9218,0.9218,3861,0.3861,over,0.665689655,non-sig,NA
+30,Klebsiella quasipneumoniae subsp. similipneumoniae,Community-household swab,4055,0.4055,8420,0.842,4055,0.4055,over,0.675833333,non-sig,NA
+31,Klebsiella pneumoniae,Farm-animal,7989,0.7989,10000,1,7989,0.7989,over,0.9978,non-sig,NA
+32,Klebsiella quasipneumoniae subsp. quasipneumoniae,Community-food,10000,1,9205,0.9205,9205,0.9205,under,0.9978,non-sig,NA
+33,Klebsiella quasipneumoniae subsp. quasipneumoniae,Community-natural water,10000,1,8709,0.8709,8709,0.8709,under,0.9978,non-sig,NA
+34,Klebsiella quasipneumoniae subsp. quasipneumoniae,Community-soil,10000,1,9209,0.9209,9209,0.9209,under,0.9978,non-sig,NA
+35,Klebsiella quasipneumoniae subsp. quasipneumoniae,Community-tap water,10000,1,8960,0.896,8960,0.896,under,0.9978,non-sig,NA
+36,Klebsiella quasipneumoniae subsp. quasipneumoniae,Farm-animal,10000,1,9779,0.9779,9779,0.9779,under,0.9978,non-sig,NA
+37,Klebsiella quasipneumoniae subsp. quasipneumoniae,Farm-water,10000,1,8721,0.8721,8721,0.8721,under,0.9978,non-sig,NA
+38,Klebsiella quasipneumoniae subsp. similipneumoniae,Community-food,10000,1,7898,0.7898,7898,0.7898,under,0.9978,non-sig,NA
+39,Klebsiella quasipneumoniae subsp. similipneumoniae,Community-natural water,10000,1,6612,0.6612,6612,0.6612,under,0.9978,non-sig,NA
+40,Klebsiella quasipneumoniae subsp. similipneumoniae,Farm-animal,10000,1,9466,0.9466,9466,0.9466,under,0.9978,non-sig,NA
+41,Klebsiella quasivariicola,Community-food,10000,1,9909,0.9909,9909,0.9909,under,0.9978,non-sig,NA
+42,Klebsiella quasivariicola,Community-household swab,10000,1,9483,0.9483,9483,0.9483,under,0.9978,non-sig,NA
+43,Klebsiella quasivariicola,Community-human,10000,1,9402,0.9402,9402,0.9402,under,0.9978,non-sig,NA
+44,Klebsiella quasivariicola,Community-natural water,10000,1,9846,0.9846,9846,0.9846,under,0.9978,non-sig,NA
+45,Klebsiella quasivariicola,Community-soil,10000,1,9904,0.9904,9904,0.9904,under,0.9978,non-sig,NA
+46,Klebsiella quasivariicola,Community-tap water,10000,1,9883,0.9883,9883,0.9883,under,0.9978,non-sig,NA
+47,Klebsiella quasivariicola,Farm-animal,10000,1,9978,0.9978,9978,0.9978,under,0.9978,non-sig,NA
+48,Klebsiella quasivariicola,Farm-soil,10000,1,9959,0.9959,9959,0.9959,under,0.9978,non-sig,NA
+49,Klebsiella variicola subsp. variicola,Farm-animal,10000,1,8706,0.8706,8706,0.8706,under,0.9978,non-sig,NA
+50,Klebsiella variicola subsp. variicola,Farm-water,6218,0.6218,7649,0.7649,6218,0.6218,over,0.9978,non-sig,NA
