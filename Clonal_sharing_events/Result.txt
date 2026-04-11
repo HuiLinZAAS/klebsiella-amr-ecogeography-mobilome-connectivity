@@ -1,0 +1,107 @@
+========== Calculation Results ==========
+Sample size: 50, Number of resamplings: 100  
+Average transmission events in hospital: 0.16  
+Average transmission events in community: 2.47  
+t-test results:  
+t statistic: -17.92853168139222, p-value: 2.728080997386997e-35, Significant: Yes  
+Mann-Whitney U test results:  
+U statistic: 300.0, p-value: 1.874993827798175e-33, Significant: Yes  
+
+========== Calculation Results ==========
+Sample size: 50, Number of resamplings: 1000  
+Average transmission events in hospital: 0.124  
+Average transmission events in community: 2.223  
+t-test results:  
+t statistic: -50.324957387951464, p-value: 3.6625841110171134e-293, Significant: Yes  
+Mann-Whitney U test results:  
+U statistic: 58230.0, p-value: 9.927353124704636e-292, Significant: Yes  
+
+========== Calculation Results ==========
+Sample size: 50, Number of resamplings: 10000  
+Average transmission events in hospital: 0.1324  
+Average transmission events in community: 2.2457  
+t-test results:  
+t statistic: -161.88418344852255, p-value: 0.0, Significant: Yes  
+Mann-Whitney U test results:  
+U statistic: 5438342.5, p-value: 0.0, Significant: Yes  
+
+========== Calculation Results ==========
+Sample size: 60, Number of resamplings: 100  
+Average transmission events in hospital: 0.17  
+Average transmission events in community: 3.21  
+t-test results:  
+t statistic: -21.350964313820697, p-value: 8.144177113187584e-43, Significant: Yes  
+Mann-Whitney U test results:  
+U statistic: 110.0, p-value: 8.625913904034676e-36, Significant: Yes  
+
+========== Calculation Results ==========
+Sample size: 60, Number of resamplings: 1000  
+Average transmission events in hospital: 0.197  
+Average transmission events in community: 3.338  
+t-test results:  
+t statistic: -69.64572963209655, p-value: 0.0, Significant: Yes  
+Mann-Whitney U test results:  
+U statistic: 14049.5, p-value: 0.0, Significant: Yes  
+
+========== Calculation Results ==========
+Sample size: 60, Number of resamplings: 10000  
+Average transmission events in hospital: 0.1892  
+Average transmission events in community: 3.2403  
+t-test results:  
+t statistic: -212.32445294217757, p-value: 0.0, Significant: Yes  
+Mann-Whitney U test results:  
+U statistic: 1871744.5, p-value: 0.0, Significant: Yes  
+
+========== Calculation Results ==========
+Sample size: 70, Number of resamplings: 100  
+Average transmission events in hospital: 0.3  
+Average transmission events in community: 4.4  
+t-test results:  
+t statistic: -31.01547255116798, p-value: 1.167568669109285e-64, Significant: Yes  
+Mann-Whitney U test results:  
+U statistic: 29.5, p-value: 5.196199755043654e-36, Significant: Yes  
+
+========== Calculation Results ==========
+Sample size: 70, Number of resamplings: 1000  
+Average transmission events in hospital: 0.225  
+Average transmission events in community: 4.389  
+t-test results:  
+t statistic: -89.92454674311841, p-value: 0.0, Significant: Yes  
+Mann-Whitney U test results:  
+U statistic: 3928.5, p-value: 0.0, Significant: Yes  
+
+========== Calculation Results ==========
+Sample size: 70, Number of resamplings: 10000  
+Average transmission events in hospital: 0.2621  
+Average transmission events in community: 4.4161  
+t-test results:  
+t statistic: -281.5651964327149, p-value: 0.0, Significant: Yes  
+Mann-Whitney U test results:  
+U statistic: 386401.5, p-value: 0.0, Significant: Yes  
+
+========== Calculation Results ==========
+Sample size: 80, Number of resamplings: 100  
+Average transmission events in hospital: 0.35  
+Average transmission events in community: 5.7  
+t-test results:  
+t statistic: -36.24064989095973, p-value: 7.247441966044775e-74, Significant: Yes  
+Mann-Whitney U test results:  
+U statistic: 13.5, p-value: 5.9281458155247e-36, Significant: Yes  
+
+========== Calculation Results ==========
+Sample size: 80, Number of resamplings: 1000  
+Average transmission events in hospital: 0.359  
+Average transmission events in community: 5.778  
+t-test results:  
+t statistic: -123.26202942526034, p-value: 0.0, Significant: Yes  
+Mann-Whitney U test results:  
+U statistic: 378.5, p-value: 0.0, Significant: Yes  
+
+========== Calculation Results ==========
+Sample size: 80, Number of resamplings: 10000  
+Average transmission events in hospital: 0.3344  
+Average transmission events in community: 5.7857  
+t-test results:  
+t statistic: -393.6039818772835, p-value: 0.0, Significant: Yes  
+Mann-Whitney U test results:  
+U statistic: 41710.5, p-value: 0.0, Significant: Yes  
