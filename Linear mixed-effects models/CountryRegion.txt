@@ -1,0 +1,43 @@
+线性混合模型 / INLA（控制谱系的随机效应）
+
+例如用 AMR_score 为因变量：
+
+library(lme4)
+model1 <- lmer(AMR_score ~ source + region + (1|lineage), data = df)
+model0 <- lm(AMR_score ~ source + region, data = df)
+
+
+比较 model0 与 model1：
+
+如果加入 (1|lineage) 显著提高模型拟合（AIC下降、R²增加），说明谱系解释了部分AMR变异；
+
+但若 source 或 region 在 model1 中仍显著 → 说明谱系不是唯一因素。
+
+
+
+
+| 列名                    | 含义                                     | 如何解读                               |
+| --------------------- | -------------------------------------- | ---------------------------------- |
+| Variable              | AMR 指标名称，例如 `Resistance_score`         | 指明当前分析的是哪个耐药性指标                    |
+| Phylogeny_var_prop    | 谱系随机效应占总变异的比例 ( ST / (ST + Residual) ) | 值接近 0 → 谱系几乎没影响；接近 1 → 变异主要由菌株谱系决定 |
+| R2_fixed              | 普通线性模型固定效应的 (R^2)                      | 描述区域 + 来源固定效应解释的变异比例               |
+| logLik_m1 / logLik_m0 | 含谱系随机效应模型和固定效应模型的对数似然                  | 用于比较模型拟合好坏                         |
+| delta_logLik          | 两模型对数似然差值                              | delta_logLik 越大 → 加入随机效应模型明显改善拟合   |
+
+
+
+Variable	Phylogeny_var_prop	R2_fixed	logLik_m1	logLik_m0	delta_logLik
+Resistance_score	0.427	0.062	-45308.2	-58216.8	12908.6
+Resistance_genes	0.448	0.015	-134640.7	-142915.1	8274.5
+Resistance_classes	0.55	0.03	-103576.7	-117158.4	13581.7
+Virulence_score	0.309	0.172	-70516.9	-80396.9	9880.1
+
+
+AMRscore结果
+| 指标                     | 值        | 解读                                                                              |
+| ---------------------- | -------- | ------------------------------------------------------------------------------- |
+| **Phylogeny_var_prop** | 0.427    | 谱系（ST）对 Resistance_score 的方差贡献约 **42.7%**。说明谱系差异对抗性分数影响很大，随机效应很重要。              |
+| **R2_fixed**           | 0.062    | 仅考虑固定效应（Region2 + Source）的模型能解释 **6.2%** 的总方差。说明地区和来源对 Resistance_score 的解释力有限。 |
+| **logLik_m1**          | -45308.2 | 含谱系随机效应的混合模型的对数似然值。                                                             |
+| **logLik_m0**          | -58216.8 | 无谱系随机效应的线性模型的对数似然值。                                                             |
+| **delta_logLik**       | 12908.6  | 两个模型对数似然差值，越大说明加入谱系随机效应显著改善模型拟合。这里差值非常大，说明谱系对 Resistance_score 的影响不可忽略。         |

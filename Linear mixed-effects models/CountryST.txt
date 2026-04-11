@@ -1,0 +1,5 @@
+Variable	Phylogeny_var_prop	R2_fixed	logLik_m1	logLik_m0	delta_logLik
+Resistance_score	0.378	0.209	-65288.2	-79321.3	14033.1
+Resistance_genes	0.404	0.105	-194290.9	-204781.9	10491
+Resistance_classes	0.504	0.14	-150293.2	-166755	16461.8
+Virulence_score	0.338	0.194	-96917.6	-112724.4	15806.9
