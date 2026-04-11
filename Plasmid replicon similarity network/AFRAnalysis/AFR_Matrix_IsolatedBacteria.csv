@@ -1,0 +1,12 @@
+strain,source,label
+GCA_020592335.1_ASM2059233v1_genomic.fasta,Animal,no-human
+GCA_019193085.1_ASM1919308v1_genomic.fasta,Food,no-human
+GCA_020591975.1_ASM2059197v1_genomic.fasta,Animal,no-human
+GCA_903112175.1_CHZ1_genomic.fasta,Animal,no-human
+GCA_030398555.1_CPCKP5_genomic.fasta,Environment,no-human
+GCA_002934845.1_ASM293484v1_genomic.fasta,Animal,no-human
+GCA_033450845.1_ASM3345084v1_genomic.fasta,Environment,no-human
+GCA_024989495.1_ASM2498949v1_genomic.fasta,Human,human
+GCA_002186995.1_ASM218699v1_genomic.fasta,Human,human
+GCA_002187615.1_ASM218761v1_genomic.fasta,Human,human
+GCA_033337235.1_ASM3333723v1_genomic.fasta,Human,human
