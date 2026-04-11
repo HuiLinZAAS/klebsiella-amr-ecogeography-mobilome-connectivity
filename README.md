@@ -1,71 +1,122 @@
-Eco-geography reverses dominant AMR reservoirs in Klebsiella pneumoniae
-Overview
+# Eco-geography reverses dominant AMR reservoirs in *Klebsiella pneumoniae*
 
-This project studies how AMR reservoirs in Klebsiella pneumoniae vary across ecology and geography using a One Health framework.
+## Overview
 
-We analyze:
+This project investigates how antimicrobial resistance (AMR) reservoirs in *Klebsiella pneumoniae* vary across ecological and geographic contexts using a One Health framework.
 
-AMR burden
-virulence
-phylogeny
-cross-niche patterns
+We integrate large-scale genomic and metadata datasets to quantify:
 
-Methods used:
+- AMR burden  
+- virulence features  
+- phylogenetic structure  
+- cross-niche connectivity  
 
-Mann–Whitney U test
-Pearson correlation
-Spearman correlation
-Permutation test
-Variance partitioning
-Bootstrap analysis
-Files
-human for resampling.xlsx: multi-database data
-human for resampling/: plots output folder
-Dis_China.txt: Human vs Nonhuman data (China)
-Dis_world.txt: global Human vs Nonhuman data
-SourceData_Permutation.csv: permutation input
-Result_Permutaion.csv: permutation output
-bootstrap_analysis.py: bootstrap analysis
-permutation_test.R: permutation test script
-Main analyses
+Multiple statistical approaches are used:
 
-Mann–Whitney U test: compare Human vs Nonhuman groups
-Pearson correlation: linear relationship
-Spearman correlation: rank-based relationship
-Permutation test: randomization significance test
-Variance partitioning: effect of ST, region, source
-Bootstrap: resampling across databases
+- Mann–Whitney U test  
+- Pearson correlation  
+- Spearman correlation  
+- Permutation test  
+- Variance partitioning (mixed models)  
+- Bootstrap analysis  
 
-Model
+---
 
-AMR ~ Region + Source + (1 | ST)
+## Project Structure
 
-Output
-tables: statistical results
-figures: boxplots, heatmaps
-permutation distributions
-bootstrap summaries
-Requirements
 
+---
+
+## Statistical Analyses
+
+### 1. Mann–Whitney U Test
+Non-parametric test comparing Human vs Nonhuman groups.
+
+Used for:
+- VF
+- AMR score
+- AMR class
+- AMR gene
+
+---
+
+### 2. Pearson Correlation
+Measures linear relationships between paired variables.
+
+- Human vs Nonhuman comparison  
+- Correlation matrix (heatmap)
+
+---
+
+### 3. Spearman Correlation
+Rank-based non-parametric correlation.
+
+- Measures monotonic relationships  
+- Robust to outliers
+
+---
+
+### 4. Permutation Test
+Evaluates whether species–group associations deviate from randomness.
+
+- 10,000 permutations  
+- Empirical p-values  
+- BH correction
+
+---
+
+### 5. Variance Partitioning
+
+Model:
+
+Estimates:
+- phylogenetic contribution (ST)
+- ecological effects (region/source)
+
+---
+
+### 6. Bootstrap Analysis
+
+Input: multi-database Excel file
+
+Procedure:
+- Sample sizes: 500 / 1000 / 1500  
+- 1000 iterations per size  
+- Compute mean AMR/VF metrics  
+
+Statistical tests:
+- ANOVA  
+- Kruskal–Wallis  
+- Tukey HSD  
+- Dunn’s test (Bonferroni)
+
+---
+
+## Input Data Columns
+
+- AMRscore  
+- AMRclass  
+- AMRgene  
+- VFscore  
+
+---
+
+## Outputs
+
+### Tables
+- Bootstrap results  
+- Permutation p-values  
+- Correlations  
+- Variance partition results  
+
+### Figures
+- Boxplots  
+- Heatmaps  
+- Permutation histograms  
+
+---
+
+## Requirements
+
+```bash
 pip install pandas numpy scipy matplotlib seaborn statsmodels scikit-posthocs openpyxl
-
-R: tidyverse
-
-Run
-
-python bootstrap_analysis.py
-python mann_whitney_u.py
-python correlation_pearson.py
-python correlation_spearman.py
-
-R:
-source("permutation_test.R")
-
-Runtime
-
-Bootstrap: < 5 min
-Permutation: 5–15 min
-
-License
-
-For academic use only
