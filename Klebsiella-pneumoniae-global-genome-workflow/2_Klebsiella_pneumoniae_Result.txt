@@ -1,0 +1,66 @@
+(genome) tangbiao@126-11 10:07:29 /data/tangbiao/home_backup/longxiaoqian/try/kp
+$ cd Klebsiella_pneumoniae/
+(genome) tangbiao@126-11 10:07:42 /data/tangbiao/home_backup/longxiaoqian/try/kp/Klebsiella_pneumoniae
+$ ll -t
+total 821M
+drwxrwxr-x    11 tangbiao tangbiao 4.0K Nov 12  2024 tree
+drwxrwxr-x     2 tangbiao tangbiao  101 Oct 16  2024 kp69250
+drwxrwxr-x    10 tangbiao tangbiao 4.0K Oct 16  2024 test
+-rw-rw-r--     1 tangbiao tangbiao 3.0M Oct 15  2024 69359.txt
+-rw-rw-r--     1 tangbiao tangbiao 3.0M Oct 15  2024 69252.txt
+-rw-rw-r--     1 tangbiao tangbiao  34M Oct 15  2024 kleborate_ncbi_69359_result.txt
+-rw-rw-r--     1 tangbiao tangbiao  34M Oct 15  2024 kleborate_ncbi_69359_result_beifen.txt
+-rw-rw-r--     1 tangbiao tangbiao  34M Oct 15  2024 merged_kleborate_ncbi_result-2.txt
+-rw-rw-r--     1 tangbiao tangbiao 302M Oct 15  2024 merge_kleborate_ncbi_result-2.txt
+-rw-------     1 tangbiao tangbiao  12M Oct 15  2024 nohup.out
+drwxrwxr-x 69361 tangbiao tangbiao 3.6M Oct 15  2024 kleborate_ncbi_result-2
+-rwxrwxr-x     1 tangbiao tangbiao  428 Oct 15  2024 run_kleborate.sh
+-rw-rw-r--     1 tangbiao tangbiao 5.3M Oct 12  2024 GCA_000009885.1_ASM988v1_genomic.fasta
+-rw-rw-r--     1 tangbiao tangbiao 3.6M Sep 14  2024 abricate_vfdb_sequences.txt
+-rw-rw-r--     1 tangbiao tangbiao 3.1M Sep 14  2024 abricate_resfinder_sequences.txt
+-rw-rw-r--     1 tangbiao tangbiao 419K Sep 14  2024 abricate_plasmidfinder_sequences.txt
+-rw-rw-r--     1 tangbiao tangbiao 650K Sep 14  2024 KpST23_Processed_BioSample_matrix.csv
+-rw-rw-r--     1 tangbiao tangbiao 918K Sep 14  2024 KpST23_biosample_result.txt
+-rw-rw-r--     1 tangbiao tangbiao  22K Sep 14  2024 compare1.txt
+-rw-rw-r--     1 tangbiao tangbiao  22K Sep 14  2024 compare2.txt
+-rw-rw-r--     1 tangbiao tangbiao 2.9K Sep 14  2024 Generate_Table_V2.0.py
+-rw-rw-r--     1 tangbiao tangbiao  22K Sep 14  2024 KpST23-1662_biosample.txt
+-rw-rw-r--     1 tangbiao tangbiao 768K Sep 14  2024 KpST23-1662_assembly_summary_genbank.txt
+-rw-rw-r--     1 tangbiao tangbiao 174K Sep 13  2024 vfdb_output.csv
+-rw-rw-r--     1 tangbiao tangbiao 477K Sep 13  2024 resfinder_output.csv
+-rw-rw-r--     1 tangbiao tangbiao 278K Sep 13  2024 plasmidfinder_output.csv
+-rw-rw-r--     1 tangbiao tangbiao 2.5K Sep 13  2024 Abricate_table.py
+-rw-------     1 tangbiao tangbiao 2.0M Sep 13  2024 abricate_st23.out
+drwxrwxr-x     2 tangbiao tangbiao 108K Sep 13  2024 vfdb_output
+drwxrwxr-x     2 tangbiao tangbiao 108K Sep 13  2024 resfinder_output
+drwxrwxr-x     2 tangbiao tangbiao 108K Sep 13  2024 plasmidfinder_output
+-rwxrwxr-x     1 tangbiao tangbiao  970 Sep 13  2024 abricate_multi.sh
+drwxrwxr-x     2 tangbiao tangbiao  92K Sep 13  2024 kpST23-1662-fasta
+-rw-rw-r--     1 tangbiao tangbiao  70K Sep 13  2024 kpST23-1662.txt
+-rw-rw-r--     1 tangbiao tangbiao  56M Sep 13  2024 mlst_output.log
+-rw-rw-r--     1 tangbiao tangbiao 7.6M Sep 13  2024 mlst_output.txt
+-rw-rw-r--     1 tangbiao tangbiao 8.2K Sep  2  2024 num_seqs-num_files.txt
+-rw-rw-r--     1 tangbiao tangbiao  15K Sep  2  2024 num_seqs_temp.txt
+-rw-rw-r--     1 tangbiao tangbiao 123K Sep  2  2024 scatter_plot_num_seqs.png
+-rw-rw-r--     1 tangbiao tangbiao  855 Sep  2  2024 scatter_plot_num_seqs-num_files.py
+-rw-rw-r--     1 tangbiao tangbiao  25K Sep  2  2024 sequence_counts_histogram.png
+-rw-rw-r--     1 tangbiao tangbiao 2.2K Aug 14  2024 num_seqs-num_files-300.txt
+-rw-rw-r--     1 tangbiao tangbiao    2 Aug 14  2024 scatter_plot_num_seqs
+-rw-rw-r--     1 tangbiao tangbiao 8.2K Aug 14  2024 num_seqs-num_files-old.txt
+-rw-rw-r--     1 tangbiao tangbiao 102K Aug 14  2024 scatter_plot.png
+-rw-rw-r--     1 tangbiao tangbiao  775 Aug 14  2024 scatter_plot.py
+-rw-rw-r--     1 tangbiao tangbiao  563 Aug 14  2024 plot_sequence_counts.py
+-rw-rw-r--     1 tangbiao tangbiao 9.5M Aug 14  2024 qc-final.txt
+-rw-rw-r--     1 tangbiao tangbiao  18M Aug 14  2024 qc-test.txt
+-rwxrwxr-x     1 tangbiao tangbiao  931 Aug 14  2024 test-less200-v3.sh
+-rwxrwxr-x     1 tangbiao tangbiao  527 Aug 14  2024 test-less200.sh
+-rw-rw-r--     1 tangbiao tangbiao 8.1M Aug 14  2024 guided_nohup.out
+-rwxrwxr-x     1 tangbiao tangbiao 2.5K Aug 14  2024 test-guided-v3.sh
+-rw-rw-r--     1 tangbiao tangbiao 208M Aug 14  2024 download_Klebsiella_pneumoniae_genomes_nohup.out
+-rw-rw-r--     1 tangbiao tangbiao 8.8M Aug 13  2024 download_http.txt
+-rw-rw-r--     1 tangbiao tangbiao  32M Aug 13  2024 Klebsiella_pneumoniae_assembly_summary_genbank.txt
+-rw-rw-r--     1 tangbiao tangbiao 263K Aug 13  2024 retain_repeat_biosample_gca.txt
+-rw-rw-r--     1 tangbiao tangbiao  35K Aug 13  2024 filtered_biosample.txt
+-rw-rw-r--     1 tangbiao tangbiao 538K Aug 13  2024 repeated_biosample.txt
+-rw-rw-r--     1 tangbiao tangbiao  32M Aug 13  2024 raw_Klebsiella_pneumoniae_assembly_summary_genbank.txt
+lrwxrwxrwx     1 tangbiao tangbiao   63 Aug 13  2024 assembly_summary_genbank.txt -> /home/tangbiao/longxiaoqian/try/kp/assembly_summary_genbank.txt

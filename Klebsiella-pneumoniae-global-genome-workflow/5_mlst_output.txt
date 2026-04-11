@@ -1,0 +1,18 @@
+(parallel) tangbiao@126-11 11:44:01 /data/tangbiao/home_backup/longxiaoqian/try/kp/Klebsiella_pneumoniae
+$ wc mlst_output.txt
+  69359  693590 7909399 mlst_output.txt
+(parallel) tangbiao@126-11 11:44:09 /data/tangbiao/home_backup/longxiaoqian/try/kp/Klebsiella_pneumoniae
+$ head mlst_output.txt
+GCA_000465975.2_ASM46597v2_genomic.fasta        klebsiella      29      gapA(2) infB(3) mdh(2)  pgi(2)  phoE(6) rpoB(4) tonB(4)
+GCA_000315385.1_ASM31538v1_genomic.fasta        klebsiella      375     gapA(43)        infB(1) mdh(2)  pgi(1)  phoE(10)        rpoB(4) tonB(13)
+GCA_000417425.1_gkp52v01_genomic.fasta  klebsiella      258     gapA(3) infB(3) mdh(1)  pgi(1)  phoE(1) rpoB(1) tonB(79)
+GCA_000372625.3_KP_version_2_genomic.fasta      klebsiella      1402    gapA(92)        infB(1) mdh(2)  pgi(1)  phoE(10)        rpoB(16)        tonB(121)
+GCA_000417265.2_ASM41726v2_genomic.fasta        klebsiella      258     gapA(3) infB(3) mdh(1)  pgi(1)  phoE(1) rpoB(1) tonB(79)
+GCA_000499865.1_KpQ15_genomic.fasta     klebsiella      37      gapA(2) infB(9) mdh(2)  pgi(1)  phoE(13)        rpoB(1) tonB(16)
+GCA_000492215.1_Kleb_pneu_BIDMC_40_V1_genomic.fasta     klebsiella      34      gapA(2) infB(3) mdh(6)  pgi(1)  phoE(9) rpoB(7) tonB(4)
+GCA_000567025.1_Kleb_pneu_BIDMC_45_V1_genomic.fasta     klebsiella      258     gapA(3) infB(3) mdh(1)  pgi(1)  phoE(1) rpoB(1) tonB(79)
+GCA_000633735.1_Kleb_pneu_CHS_60_V1_genomic.fasta       klebsiella      258     gapA(3) infB(3) mdh(1)  pgi(1)  phoE(1) rpoB(1) tonB(79)
+GCA_000567185.1_Kleb_pneu_BIDMC_42b_V1_genomic.fasta    klebsiella      258     gapA(3) infB(3) mdh(1)  pgi(1)  phoE(1) rpoB(1) tonB(79)
+(parallel) tangbiao@126-11 11:44:17 /data/tangbiao/home_backup/longxiaoqian/try/kp/Klebsiella_pneumoniae
+$ cut -f2 mlst_output.txt |sort|uniq -c
+  69359 klebsiella

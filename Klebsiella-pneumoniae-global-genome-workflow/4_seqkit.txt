@@ -1,0 +1,14 @@
+echo "Running quality control for FASTA files in ${genomes_fna_file}_more200. Results will be saved to qc-final.txt" \
+| tee -a "${current_dir}/run.log"
+
+cd "${genomes_fna_file}_more200"
+
+# Generate genome statistics using seqkit
+find . -type f -name '*.fasta' -print0 \
+| xargs -0 -n 1000 seqkit stats -a \
+| awk '{print $1"\t"$4"\t"$5"\t"$6"\t"$7"\t"$8"\t"$13"\t"$14"\t"$18}' \
+> ../qc-test.txt
+
+# Keep header + genome records (GCA assemblies)
+head -n 1 qc-test.txt > qc-final.txt
+grep 'GCA' qc-test.txt >> qc-final.txt

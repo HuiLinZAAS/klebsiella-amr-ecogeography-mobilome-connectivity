@@ -1,0 +1,9 @@
+echo "Running MLST analysis on FASTA files in ${genomes_fna_file}_more200. Results will be saved to mlst_output.txt" \
+| tee -a "${current_dir}/run.log"
+
+# MLST analysis (Klebsiella scheme)
+# Each genome is processed in parallel using 300 threads
+
+ls | xargs -I {} -n 1 -P 300 sh -c \
+'mlst --scheme klebsiella {} >> ../mlst_output.txt' \
+2> ../mlst_output.log

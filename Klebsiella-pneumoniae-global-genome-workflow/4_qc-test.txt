@@ -1,0 +1,25 @@
+(genome) tangbiao@126-11 11:22:30 /data/tangbiao/home_backup/longxiaoqian/try/kp/Klebsiella_pneumoniae
+$ head qc-test.txt qc-final.txt
+==> qc-test.txt <==
+file                                                                                                                             format  type  num_seqs    sum_len    min_len      avg_len    max_len         Q1           Q2           Q3  sum_gap        N50  N50_num  Q20(%)  Q30(%)  AvgQual  GC(%)
+Klebsiella_pneumoniae_genomes_fna_file_more200/GCA_022325005.1_ASM2232500v1_genomic.fasta                                        FASTA   DNA         83  5,605,911        200     67,541.1    455,681      928.5       14,485      107,812        0    172,885       10       0       0        0  56.84
+Klebsiella_pneumoniae_genomes_fna_file_more200/GCA_018066255.1_ASM1806625v1_genomic.fasta                                        FASTA   DNA         63  5,478,246        542     86,956.3    550,030      2,178       36,413     97,718.5        0    231,665        9       0       0        0   57.3
+Klebsiella_pneumoniae_genomes_fna_file_more200/GCA_022324905.1_ASM2232490v1_genomic.fasta                                        FASTA   DNA        139  5,769,240        207     41,505.3    508,623        781        3,125     29,685.5        0    195,020       10       0       0        0  56.73
+Klebsiella_pneumoniae_genomes_fna_file_more200/GCA_022320795.1_ASM2232079v1_genomic.fasta                                        FASTA   DNA        143  5,720,715        208       40,005    373,252      720.5        2,821       45,426        0    152,845       12       0       0        0   56.7
+Klebsiella_pneumoniae_genomes_fna_file_more200/GCA_022325105.1_ASM2232510v1_genomic.fasta                                        FASTA   DNA        114  5,852,685        209     51,339.3    514,387      1,297        9,889       66,847        0    160,725       12       0       0        0  56.66
+Klebsiella_pneumoniae_genomes_fna_file_more200/GCA_022321265.1_ASM2232126v1_genomic.fasta                                        FASTA   DNA        183  5,698,876        205     31,141.4    331,067        676        2,161     19,485.5        0    198,740       12       0       0        0  57.09
+Klebsiella_pneumoniae_genomes_fna_file_more200/GCA_018107865.1_ASM1810786v1_genomic.fasta                                        FASTA   DNA        136  5,592,774        223     41,123.3    636,827      850.5      3,731.5       45,994        0    150,251       12       0       0        0  57.14
+Klebsiella_pneumoniae_genomes_fna_file_more200/GCA_018314145.1_ASM1831414v1_genomic.fasta                                        FASTA   DNA          4  5,780,861     10,060  1,445,215.3  5,531,197   63,053.5      119,802    2,827,377        0  5,531,197        1       0       0        0  57.11
+Klebsiella_pneumoniae_genomes_fna_file_more200/GCA_018340395.1_ASM1834039v1_genomic.fasta                                        FASTA   DNA      1,477  6,686,067        251      4,526.8    676,732        430          492          690        0    146,490       13       0       0        0  55.57
+
+==> qc-final.txt <==
+file    num_seqs        sum_len min_len avg_len max_len N50     N50_num GC(%)
+Klebsiella_pneumoniae_genomes_fna_file_more200/GCA_022325005.1_ASM2232500v1_genomic.fasta       83      5,605,911       200     67,541.1        455,681 172,885   10      56.84
+Klebsiella_pneumoniae_genomes_fna_file_more200/GCA_018066255.1_ASM1806625v1_genomic.fasta       63      5,478,246       542     86,956.3        550,030 231,665   9       57.3
+Klebsiella_pneumoniae_genomes_fna_file_more200/GCA_022324905.1_ASM2232490v1_genomic.fasta       139     5,769,240       207     41,505.3        508,623 195,020   10      56.73
+Klebsiella_pneumoniae_genomes_fna_file_more200/GCA_022320795.1_ASM2232079v1_genomic.fasta       143     5,720,715       208     40,005  373,252 152,845 1256.7
+Klebsiella_pneumoniae_genomes_fna_file_more200/GCA_022325105.1_ASM2232510v1_genomic.fasta       114     5,852,685       209     51,339.3        514,387 160,725   12      56.66
+Klebsiella_pneumoniae_genomes_fna_file_more200/GCA_022321265.1_ASM2232126v1_genomic.fasta       183     5,698,876       205     31,141.4        331,067 198,740   12      57.09
+Klebsiella_pneumoniae_genomes_fna_file_more200/GCA_018107865.1_ASM1810786v1_genomic.fasta       136     5,592,774       223     41,123.3        636,827 150,251   12      57.14
+Klebsiella_pneumoniae_genomes_fna_file_more200/GCA_018314145.1_ASM1831414v1_genomic.fasta       4       5,780,861       10,060  1,445,215.3     5,531,1975,531,197        1       57.11
+Klebsiella_pneumoniae_genomes_fna_file_more200/GCA_018340395.1_ASM1834039v1_genomic.fasta       1,477   6,686,067       251     4,526.8 676,732 146,490 1355.57
