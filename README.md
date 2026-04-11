@@ -22,75 +22,66 @@ Multiple statistical approaches are used:
 
 ---
 
-## Project Structure
 
+## Project Modules
 
----
+This project is organized into multiple analytical modules:
 
-## Statistical Analyses
-
-### 1. Mann–Whitney U Test
-Non-parametric test comparing Human vs Nonhuman groups.
-
-Used for:
-- VF
-- AMR score
-- AMR class
-- AMR gene
+### 1. Klebsiella pneumoniae global genome workflow
+Klebsiella-pneumoniae-global-genome-workflow  
+Global dataset processing and One Health integration of *Klebsiella pneumoniae* genomes.
 
 ---
 
-### 2. Pearson Correlation
-Measures linear relationships between paired variables.
+### 2. Linear mixed-effects models
+Linear mixed-effects models  
+Variance partitioning framework using mixed models:
 
-- Human vs Nonhuman comparison  
-- Correlation matrix (heatmap)
+AMR ~ Region + Source + (1 | ST)
 
----
-
-### 3. Spearman Correlation
-Rank-based non-parametric correlation.
-
-- Measures monotonic relationships  
-- Robust to outliers
+Used to quantify phylogenetic vs ecological contributions.
 
 ---
 
-### 4. Permutation Test
-Evaluates whether species–group associations deviate from randomness.
-
-- 10,000 permutations  
-- Empirical p-values  
-- BH correction
+### 3. Mann–Whitney U test
+Mann–Whitney U test  
+Non-parametric comparison between Human and Nonhuman groups.
 
 ---
 
-### 5. Variance Partitioning
-
-Model:
-
-Estimates:
-- phylogenetic contribution (ST)
-- ecological effects (region/source)
+### 4. Pearson correlation
+Pearson correlation  
+Measures linear relationships between paired AMR/VF variables.
 
 ---
 
-### 6. Bootstrap Analysis
-
-Input: multi-database Excel file
-
-Procedure:
-- Sample sizes: 500 / 1000 / 1500  
-- 1000 iterations per size  
-- Compute mean AMR/VF metrics  
-
-Statistical tests:
-- ANOVA  
-- Kruskal–Wallis  
-- Tukey HSD  
-- Dunn’s test (Bonferroni)
+### 5. Spearman correlation
+Spearman correlation  
+Rank-based correlation for monotonic relationships and non-normal data.
 
 ---
+
+### 6. Permutation test
+Permutation test  
+Randomization-based test (10,000 permutations) to assess significance of species–group associations.
+
+---
+
+### 7. Plasmid replicon similarity network
+Plasmid replicon similarity network  
+Network-based analysis of plasmid replicon sharing across genomes to evaluate horizontal gene transfer and connectivity.
+
+---
+
+### 8. Sharing event analysis
+SharingEvent  
+Analysis of cross-niche or cross-source sharing events in AMR and mobilome data.
+
+---
+
+### 9. Resampling analysis
+ResamplingAnalysis  
+Bootstrap-based framework for estimating robustness of AMR/VF patterns across different sample sizes (500 / 1000 / 1500).
 
 ## Input Data Columns
 
