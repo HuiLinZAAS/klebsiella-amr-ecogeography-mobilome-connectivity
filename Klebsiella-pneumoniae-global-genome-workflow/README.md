@@ -14,7 +14,7 @@ This pipeline supports large-scale comparative genomics and population structure
 
 
 
-\## 📌 Overview
+\##  Overview
 
 
 
@@ -43,8 +43,6 @@ This workflow includes the following steps:
 \---
 
 
-
-\## 📁 Directory Structure
 
 
 
