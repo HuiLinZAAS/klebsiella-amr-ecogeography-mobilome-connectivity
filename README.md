@@ -10,7 +10,7 @@ virulence features
 phylogenetic structure
 cross-niche connectivity
 
-Multiple statistical approaches are used, including:
+Statistical analyses include:
 
 Mann–Whitney U test
 Pearson correlation
@@ -35,76 +35,52 @@ Project Structure
 ├── permutation_test.R
 └── README.md
 Statistical Analyses
-1. Mann–Whitney U Test
+Mann–Whitney U Test
 
 Non-parametric test comparing Human vs Nonhuman groups.
 
-Used for:
+Pearson Correlation
 
-VF
-AMR score
-AMR class
-AMR gene
-2. Pearson Correlation
+Measures linear correlation between paired variables.
 
-Measures linear relationships between paired variables.
+Spearman Correlation
 
-Human vs Nonhuman comparison
-Correlation matrix (heatmap)
-3. Spearman Correlation
+Rank-based correlation for monotonic relationships.
 
-Rank-based non-parametric correlation.
-
-Measures monotonic relationships
-Robust to outliers
-4. Permutation Test
-
-Evaluates whether species–group associations deviate from randomness.
-
+Permutation Test
 10,000 permutations
 Empirical p-values
 BH correction
-5. Variance Partitioning
-
-Model:
-
+Variance Partitioning
 AMR ~ Region + Source + (1 | ST)
 
 Estimates:
 
-phylogenetic contribution (ST)
+phylogenetic effect (ST)
 ecological effects (region/source)
-6. Bootstrap Analysis
-
-Input: multi-database Excel file
-
-Procedure:
-
+Bootstrap Analysis
 Sample sizes: 500 / 1000 / 1500
-1000 iterations per size
-Compute mean AMR/VF metrics
-
+1000 iterations each
 Statistical tests:
-
 ANOVA
 Kruskal–Wallis
 Tukey HSD
-Dunn’s test (Bonferroni)
-Input Data Columns
+Dunn test (Bonferroni)
+Input Data
 AMRscore
 AMRclass
 AMRgene
 VFscore
 Outputs
 Tables
-Bootstrap results
-Permutation p-values
-Correlations
-Variance partition results
+bootstrap results
+permutation results
+correlation results
+variance partitioning results
 Figures
-Boxplots
-Heatmaps
-Permutation histograms
+boxplots
+heatmaps
+permutation histograms
 Requirements
 pip install pandas numpy scipy matplotlib seaborn statsmodels scikit-posthocs openpyxl
 
@@ -124,8 +100,8 @@ R:
 
 source("permutation_test.R")
 Runtime
-Bootstrap: < 5 min
-Permutation test: 5–15 min
+Bootstrap: < 5 minutes
+Permutation test: 5–15 minutes
 License
 
-Academic and research use only.
+For academic use only.
