@@ -1,6 +1,6 @@
 # Bootstrap Resampling and Statistical Comparison of Human Datasets
 
-This project performs bootstrap resampling of human dataset sheets, calculates the means of key indicators (e.g., AMRscore, AMRclass, AMRgene, VFscore), and conducts statistical comparisons including ANOVA, Kruskal-Wallis, Tukey HSD, and Dunn's tests. It also generates boxplots to visualize differences between databases across different sample sizes.
+This project integrates large-scale One Health sampling and global genomic data to investigate how antimicrobial resistance (AMR) reservoirs vary across ecological contexts. Using network-based metrics, we quantify AMR burden, mobilome features, and cross-niche connectivity, revealing region-specific dominance patterns and the role of lineage and horizontal gene transfer.
 
 ## Project Structure
 
