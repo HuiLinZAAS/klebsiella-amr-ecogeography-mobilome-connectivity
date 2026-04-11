@@ -109,5 +109,14 @@ Bootstrap-based framework for estimating robustness of AMR/VF patterns across di
 
 ## Requirements
 
-```bash
 pip install pandas numpy scipy matplotlib seaborn statsmodels scikit-posthocs openpyxl
+install.packages("tidyverse")
+python bootstrap_analysis.py
+python mann_whitney_u.py
+python correlation_pearson.py
+python correlation_spearman.py
+source("permutation_test.R")
+
+#License
+
+This project is for academic and research use only.
